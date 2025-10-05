@@ -1,0 +1,821 @@
+manutencao_id,condominio,tipo_intervencao,area_afetada,descricao,data_reportada,data_inicio,data_conclusao,fornecedor,custo_total,urgencia,estado
+MN00001,jardins da cidade,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2024-05-27,2024-05-31,2024-06-05,ProServiços Solutions,2769.76,Alta,Concluído
+MN00002,condomínio central,Inspeção,Elevador,Avaria no sistema de travagem,2023-10-30,2023-11-02,2023-11-08,TecnoReparações Unipessoal,4026.2,Alta,Concluído
+MN00003,residencial atlântico,Melhoria,Garagem,Piso com fissuras e buracos,2024-10-28,2024-10-28,2024-11-02,ProServiços Group,3245.18,Crítica,Concluído
+MN00004,Torres do Sol,Inspeção,Jardim,Poda de árvores urgente,2025-06-01,2025-06-03,2025-06-13,ProServiços Group,76.06,alta,Concluído
+MN00005,TORRES DO SOL,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2025-07-19,2025-07-25,2025-07-29,GlobalTec Group,13734.16,Alta,Concluído
+MN00006,vila verde,Reparação urgente,Piscina,Vedação de segurança danificada,2024-05-07,2024-05-09,2024-05-15,masterfix lda,1932.7,Alta,Concluído
+MN00007,Vila Verde,Inspeção,Elevador,Ruído excessivo durante funcionamento,2024-07-16,2024-09-02,2024-08-08,masterfix lda,4496.97,Baixa,Concluído
+MN00008,jardins da cidade,Inspeção,Elevador,Botões do painel não respondem,2024-05-02,2024-05-04,2024-05-08,SmartRepair Solutions,3901.79,Crítica,Concluído
+MN00009,vila verde,Inspeção,Fachada,Pintura descascada em várias zonas,2025-03-28,2025-03-31,2025-04-07,SmartRepair Lda,7725.41,Alta,Concluído
+MN00010,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-07-23,2024-08-01,2024-08-17,GlobalTec Unipessoal,2784.13,Média,Concluído
+MN00011,Jardins da Cidade,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2025-03-12,2025-03-30,2025-04-13,GlobalTec Group,3790.69,Média,Concluído
+MN00012,Torres do Sol,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2024-08-27,2024-09-02,2024-09-06,masterfix lda,14339.52,Alta,Concluído
+MN00013,vila verde,Melhoria,Elevador,Ruído excessivo durante funcionamento,2025-07-06,2025-07-31,,ProServiços SA,969.36,Baixa,Em curso
+MN00014,vila verde,Reparação urgente,Garagem,Iluminação insuficiente,2024-07-07,2024-07-12,2024-07-19,masterfix lda,2706.67,Alta,Concluído
+MN00015,VILA VERDE,Manutencao preventiva,Telhado,Sistema de drenagem entupido,2023-09-04,2023-09-06,2023-09-11,TecnoReparações Unipessoal,17123.19,Crítica,Concluído
+MN00016,CONDOMÍNIO CENTRAL,Manutenção preventiva,Jardim,Relva necessita tratamento,2023-12-27,2023-12-28,2024-01-01,UltraFix SA,1403.96,Crítica,Concluído
+MN00017,Jardins da Cidade,Manutenção preventiva,Jardim,Sistema de rega avariado,2024-03-21,2024-03-23,2024-03-27,ProServiços SA,342.38,Alta,Concluído
+MN00018,quinta das palmeiras,Melhoria,Piscina,Azulejos partidos no fundo,2024-07-21,2024-07-28,2024-08-01,GlobalTec Unipessoal,564.44,Alta,Concluído
+MN00019,Vila Verde,Reparação urgente,Garagem,Piso com fissuras e buracos,2023-10-12,2023-10-19,2023-10-24,ProServiços SA,2203.2,Alta,Concluído
+MN00020,TORRES DO SOL,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2023-12-26,2023-12-28,2024-01-02,ProServiços SA,956.23,critica,Concluído
+MN00021,Residencial Atlântico,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-01-12,2024-01-16,2024-01-22,TecnoReparações Group,3530.64,Alta,Concluído
+MN00022,Quinta das Palmeiras,Reparação urgente,Telhado,Impermeabilização degradada,2024-02-19,2024-02-20,2024-02-24,masterfix lda,13836.87,Crítica,Concluído
+MN00023,torres do sol,Melhoria,Jardim,Poda de árvores urgente,2024-08-27,2024-10-08,2024-10-15,UltraFix & Filhos,674.34,Baixa,Concluído
+MN00024,CONDOMÍNIO CENTRAL,Reparação urgente,Piscina,Sistema de filtragem necessita manutenção,2023-12-02,2023-12-04,2023-12-14,MasterFix Lda.,1900.87,Alta,Concluído
+MN00025,VILA VERDE,Manutencao preventiva,Piscina,Azulejos partidos no fundo,2025-03-21,2025-04-19,2025-05-14,masterfix lda,1367.78,Baixa,Concluído
+MN00026,vila verde,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-12-29,2025-02-10,2025-03-04,MasterFix Unipessoal,4109.64,Baixa,Concluído
+MN00027,Jardins da Cidade,Manutenção preventiva,Piscina,Vedação de segurança danificada,2024-10-26,2024-10-28,2024-11-05,MASTERFIX LDA,490.47,Alta,Concluído
+MN00028,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Piscina,pH da água desregulado,2024-11-25,2024-12-12,2024-12-28,UltraFix & Filhos,1829.64,Média,Concluído
+MN00029,condomínio central,Reparação urgente,Garagem,Sistema de ventilação com problemas,2025-06-07,2025-06-10,2025-06-15,MasterFix Unipessoal,2010.67,Alta,Concluído
+MN00030,Torres do Sol,Inspeção,Elevador,Ruído excessivo durante funcionamento,2023-10-20,2023-11-01,2023-11-18,ProServiços SA,838.28,Média,Concluído
+MN00031,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-07-05,2024-07-05,2024-07-08,PrimeWorks Group,2431.71,Crítica,Concluído
+MN00032,vila verde,Reparação urgente,Jardim,Sistema de rega avariado,2023-12-08,2023-12-10,2023-12-12,TecnoReparações Group,913.23,Crítica,Concluído
+MN00033,residencial atlântico,Melhoria,Fachada,Revestimento cerâmico solto,2025-06-30,2025-07-10,2025-07-26,UltraFix SA,4794.01,Média,Concluído
+MN00034,Jardins da Cidade,Inspeção,Elevador,Necessária inspeção periódica obrigatória,2023-09-19,2023-10-24,2023-11-14,,223.27,Baixa,Concluído
+MN00035,condomínio central,Melhoria,Telhado,Sistema de drenagem entupido,2024-11-21,2024-11-23,2024-11-24,MASTERFIX LDA,4857.28,Crítica,Concluído
+MN00036,VILA VERDE,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2025-01-28,2025-01-31,2025-02-10,GlobalTec Unipessoal,7136.7,Alta,Concluído
+MN00037,Vila Verde,Inspeção,Hall,Intercomunicador avariado,2025-02-20,2025-03-11,2025-03-31,TecnoReparações Solutions,990.59,Média,Concluído
+MN00038,vila verde,Manutenção preventiva,Jardim,Relva necessita tratamento,2025-03-16,2025-03-24,2025-04-03,PrimeWorks Group,740.55,Média,Concluído
+MN00039,QUINTA DAS PALMEIRAS,Inspeção,Elevador,Necessária inspeção periódica obrigatória,2024-03-24,2024-05-08,2024-05-22,ProServiços Group,2139.04,Baixa,Concluído
+MN00040,TORRES DO SOL,melhoria,Elevador,Botões do painel não respondem,2024-10-06,2024-11-06,2024-11-16,GlobalTec Group,870.2,Baixa,Concluído
+MN00041,Torres do Sol,Reparação urgente,Jardim,Pragas detetadas nas plantas,2024-11-11,2024-11-13,2024-11-19,PrimeWorks Group,830.09,Alta,Concluído
+MN00042,JARDINS DA CIDADE,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-03-04,2024-03-07,2024-03-16,TecnoReparações Group,946.21,Alta,Concluído
+MN00043,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2023-12-03,2024-01-12,2024-01-29,TecnoReparações Unipessoal,2335.55,Baixa,Concluído
+MN00044,TORRES DO SOL,Melhoria,Jardim,Relva necessita tratamento,2025-05-08,2025-05-15,2025-05-25,GlobalTec Unipessoal,256.26,Alta,Concluído
+MN00045,Quinta das Palmeiras,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2024-06-20,2024-08-02,2024-08-11,TecnoReparações Unipessoal,923.25,Baixa,Concluído
+MN00046,JARDINS DA CIDADE,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2025-06-25,2025-06-25,2025-06-27,MasterFix Unipessoal,1324.03,CRITICA,Concluído
+MN00047,JARDINS DA CIDADE,Reparação urgente,Fachada,Revestimento cerâmico solto,2025-06-11,2025-06-11,2025-06-15,masterfix lda,24720.09,Crítica,Concluído
+MN00048,Condomínio Central,Manutenção preventiva,Piscina,Vedação de segurança danificada,2024-12-08,2024-12-14,2024-12-23,TecnoReparações Solutions,346.96,Alta,Concluído
+MN00049,jardins da cidade,Reparação urgente,Piscina,pH da água desregulado,2023-11-05,2023-11-11,2023-11-16,ProServiços Group,1497.46,Alta,Concluído
+MN00050,Quinta das Palmeiras,Melhoria,Jardim,Iluminação exterior fundida,2025-06-28,2025-07-01,2025-07-04,TecnoReparações Unipessoal,0.0,Alta,Concluído
+MN00051,RESIDENCIAL ATLÂNTICO,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-02-02,2024-02-08,2024-02-12,MasterFix Lda.,4246.7,Alta,Concluído
+MN00052,CONDOMÍNIO CENTRAL,Inspeção,Elevador,Necessária inspeção periódica obrigatória,2024-04-04,2024-04-09,2024-04-19,ProServiços SA,1034.3,Alta,Concluído
+MN00053,condomínio central,Reparação urgente,Elvador,Piso escorregadio necessita tratamento,2024-07-20,2024-07-22,2024-07-27,MasterFix Lda.,1998.62,critica,Concluído
+MN00054,VILA VERDE,Inspecção,Jardim,Pragas detetadas nas plantas,2024-08-03,2024-09-05,2024-09-18,ProServiços SA,867.06,Baixa,Concluído
+MN00055,TORRES DO SOL,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2023-12-01,2023-12-03,2023-12-06,ProServiços SA,4407.65,Alta,Concluído
+MN00056,torres do sol,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-10-27,2024-11-14,2024-11-26,GlobalTec Unipessoal,1955.01,Média,Concluído
+MN00057,condomínio central,Inspeção,Jardim,,2025-02-06,2025-02-20,2025-03-04,UltraFix Group,54.62,Média,Concluído
+MN00058,RESIDENCIAL ATLÂNTICO,Melhoria,Hall,Correio acumulado sem distribuição,2024-11-12,2024-11-14,2024-11-17,TecnoReparações Group,395.05,Crítica,Concluído
+MN00059,residencial atlântico,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-01-14,2024-01-28,2024-02-03,TecnoReparações Solutions,508.27,Média,Concluído
+MN00060,residencial atlântico,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-07-19,2024-08-30,2024-09-27,SmartRepair Lda,3420.49,Baixa,Concluído
+MN00061,VILA VERDE,Manutenção preventiva,Fachada,Fissuras visíveis na parede norte,2024-05-24,2024-07-07,2024-07-26,MasterFix Unipessoal,10624.2,Baixa,Concluído
+MN00062,Vila Verde,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2023-12-22,2023-12-22,2023-12-27,ProServiços SA,4533.88,Crítica,Concluído
+MN00063,residencial atlântico,melhoria,Piscina,Bomba de circulação com ruído anormal,2023-10-30,2023-11-01,2023-11-06,SmartRepair Lda,1849.51,Crítica,Concluído
+MN00064,Quinta das Palmeiras,Inspeção,Elevador,Botões do painel não respondem,2024-02-14,2024-03-17,2024-04-08,UltraFix & Filhos,3802.9,Baixa,CONCLUIDO
+MN00065,Vila Verde,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2023-12-21,2024-01-13,2024-02-11,GlobalTec Group,148.82,Baixa,Concluido
+MN00066,residencial atlântico,Inspeção,Elevador,Ruído excessivo durante funcionamento,2024-09-16,2024-10-06,2024-10-23,TecnoReparações Group,2794.09,Baixa,Concluído
+MN00067,TORRES DO SOL,Reparação urgente,Elevador,Porta não fecha corretamente,2024-10-01,2024-10-03,2024-10-06,PrimeWorks Group,1886.88,Crítica,Concluído
+MN00068,JARDINS DA CIDADE,Inspeção,Telhado,Sistema de drenagem entupido,2024-01-07,2024-01-09,2024-01-12,ProServiços SA,14943.92,Crítica,Concluído
+MN00069,quinta das palmeiras,Inspeção,Fachada,Revestimento cerâmico solto,2024-05-06,2024-05-06,2024-05-11,MASTERFIX LDA,14310.13,Crítica,Concluído
+MN00070,vila verde,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2025-03-21,2025-03-25,2025-03-30,SmartRepair Solutions,19419.54,Alta,Concluído
+MN00071,torres do sol,Inspeção,Garagem,Marcações no chão necessitam repintura,2024-09-12,2024-10-20,2024-11-04,SmartRepair Solutions,1107.87,baixa,Concluído
+MN00072,Quinta das Palmeiras,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2024-08-11,2024-08-11,2024-08-12,ProServiços Group,2308.92,Crítica,Concluído
+MN00073,vila verde,Inspeção,Telhado,Sistema de drenagem entupido,2024-11-12,2024-12-03,2024-12-18,SmartRepair Lda,6963.51,Média,Concluído
+MN00074,Condomínio Central,Manutenção preventiva,Elevador,Botões do painel não respondem,2023-10-12,2023-10-19,2023-11-06,ProServiços SA,4649.22,Média,Concluído
+MN00075,residencial atlântico,Inspeção,Elevador,Porta não fecha corretamente,2024-05-30,2024-07-09,2024-07-28,MasterFix Unipessoal,2355.86,Baixa,Concluído
+MN00076,torres do sol,Melhoria,Jardim,Poda de árvores urgente,2024-02-11,2024-02-11,2024-02-13,GlobalTec Unipessoal,1380.84,Crítica,Concluído
+MN00077,condomínio central,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-01-19,2024-01-31,2024-02-08,GlobalTec Unipessoal,4489.76,Média,Concluído
+MN00078,vila verde,Inspeção,Telhado,Telhas partidas necessitam substituição,2023-10-20,2023-11-19,,GlobalTec Group,5400.84,Baixa,em curso
+MN00079,RESIDENCIAL ATLÂNTICO,Melhoria,Fachada,Pintura descascada em várias zonas,2024-03-20,2024-04-06,2024-04-15,GlobalTec Unipessoal,13013.61,Média,Concluído
+MN00080,Torres do Sol,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2023-12-28,2023-12-31,2024-01-09,TecnoReparações Group,4540.45,Alta,Concluído
+MN00081,JARDINS DA CIDADE,Melhoria,Telhado,Telhas partidas necessitam substituição,2024-03-22,2024-04-13,2024-04-21,TecnoReparações Group,1114.34,Baixa,Concluído
+MN00082,Residencial Atlântico,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-06-28,2024-06-29,2024-07-02,masterfix lda,1129.01,Crítica,Concluído
+MN00083,RESIDENCIAL ATLÂNTICO,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2025-01-12,2025-01-16,2025-01-19,PrimeWorks Group,4877.4,Alta,Concluído
+MN00084,TORRES DO SOL,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2023-10-07,2023-10-10,2023-10-18,MASTERFIX LDA,18428.61,Alta,Concluído
+MN00085,CONDOMÍNIO CENTRAL,Reparação urgente,Fachada,Fissuras visíveis na parede norte,2023-10-20,2023-10-21,2023-10-23,UltraFix & Filhos,14851.72,critica,Concluído
+MN00086,VILA VERDE,Reparação urgente,Piscina,pH da água desregulado,2025-03-01,2025-03-08,2025-03-13,GlobalTec Group,159.01,Alta,Concluído
+MN00087,torres do sol,Melhoria,Jardim,Sistema de rega avariado,2024-08-31,2024-09-08,2024-09-27,TecnoReparações Group,669.83,Média,Concluído
+MN00088,JARDINS DA CIDADE,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2025-06-04,2025-06-06,2025-06-11,ProServiços Group,684.77,Crítica,Concluído
+MN00089,Condomínio Central,Inspeção,Hall,Intercomunicador avariado,2025-01-31,2025-02-14,2025-03-02,UltraFix & Filhos,841.11,Baixa,Concluído
+MN00090,Torres do Sol,Melhoria,Telhado,Impermeabilização degradada,2024-04-16,2024-04-18,2024-04-21,SmartRepair Lda,15587.56,Crítica,Concluído
+MN00091,residencial atlântico,Manutenção preventiva,Hall,Correio acumulado sem distribuição,2023-11-10,2023-12-04,2023-11-20,UltraFix SA,242.24,Média,Concluído
+MN00092,Condomínio Central,Melhoria,Telhado,Estrutura de suporte com sinais de degradação,2023-10-10,2023-10-17,2023-10-20,SmartRepair Lda,4610.5,Alta,CONCLUIDO
+MN00093,residencial atlântico,Reparação urgente,Jardim,Iluminação exterior fundida,2024-10-13,2024-10-15,2024-10-19,TecnoReparações Unipessoal,203.83,Crítica,Concluído
+MN00094,Jardins da Cidade,Inspeção,Telhado,Infiltrações detetadas após temporal,2024-08-26,2024-10-07,2024-11-04,UltraFix Group,4382.38,Baixa,Concluído
+MN00095,QUINTA DAS PALMEIRAS,Manutenção preventiva,Hall,Lâmpadas fundidas,2025-01-27,2025-02-14,2025-03-03,TecnoReparações Group,190.8,Média,CONCLUIDO
+MN00096,CONDOMÍNIO CENTRAL,melhoria,Jardim,Iluminação exterior fundida,2025-02-02,2025-03-09,2025-03-23,UltraFix & Filhos,218.56,Baixa,Concluído
+MN00097,QUINTA DAS PALMEIRAS,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2023-09-05,2023-09-12,2023-09-16,MASTERFIX LDA,9048.54,Alta,Concluído
+MN00098,Condomínio Central,Manutenção preventiva,Jardim,Iluminação exterior fundida,2025-03-30,2025-04-03,2025-04-08,UltraFix SA,670.88,Alta,Concluído
+MN00099,QUINTA DAS PALMEIRAS,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2025-05-05,2025-05-18,2025-05-31,ProServiços SA,1007.91,Média,Concluído
+MN00100,torres do sol,Reparação urgente,Piscina,Bomba de circulação com ruído anormal,2023-10-07,2023-10-09,2023-10-13,MASTERFIX LDA,1595.93,Crítica,Concluído
+MN00101,VILA VERDE,Inspecção,Jardim,Poda de árvores urgente,2025-07-30,2025-08-30,,ProServiços SA,585.06,Baixa,Em curso
+MN00102,Vila Verde,Reparação urgente,Garagem,Sistema de ventilação com problemas,2025-02-26,2025-03-03,2025-03-11,SmartRepair Solutions,1537.9,Alta,Concluído
+MN00103,jardins da cidade,Inspeção,Elevador,Botões do painel não respondem,2024-03-31,2024-04-16,2024-04-23,UltraFix Group,1393.78,Média,Concluído
+MN00104,Quinta das Palmeiras,Manutenção preventiva,Garagem,Portão automático avariado,2024-09-05,2024-09-25,2024-10-10,ProServiços SA,323.62,Baixa,Concluído
+MN00105,Quinta das Palmeiras,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2023-12-05,2023-12-12,2023-12-22,SmartRepair Lda,3622.23,alta,Concluído
+MN00106,torres do sol,Manutencao preventiva,Fachada,Fissuras visíveis na parede norte,2025-03-13,2025-03-13,2025-03-15,MASTERFIX LDA,9749.08,Crítica,CONCLUIDO
+MN00107,Quinta das Palmeiras,Reparação urgente,Telhado,Impermeabilização degradada,2024-03-27,2024-04-02,2024-04-08,masterfix lda,2526.91,Alta,Concluído
+MN00108,Jardins da Cidade,Reparação urgente,Garagem,Portão automático avariado,2025-07-13,2025-07-15,2025-07-24,MasterFix Lda.,1421.3,Alta,Concluído
+MN00109,Torres do Sol,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2023-09-17,2023-09-17,2023-09-21,UltraFix SA,12132.97,Crítica,Concluído
+MN00110,Residencial Atlântico,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-01-19,2024-02-26,2024-03-08,,1888.34,Baixa,Concluído
+MN00111,Quinta das Palmeiras,Melhoria,Elevador,Botões do painel não respondem,2023-10-09,2023-10-09,2023-10-11,UltraFix & Filhos,6364.25,Crítica,Concluído
+MN00112,quinta das palmeiras,Inspeção,Elevador,Necessária inspeção periódica obrigatória,2025-06-09,2025-06-23,2025-07-02,GlobalTec Unipessoal,1130.96,Média,Concluído
+MN00113,Torres do Sol,Melhoria,Piscina,Bomba de circulação com ruído anormal,2024-11-14,2024-11-14,2024-11-15,ProServiços Solutions,1739.52,Crítica,Concluído
+MN00114,condomínio central,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-09-15,2024-09-22,2024-09-29,SmartRepair Lda,4031.99,alta,Concluído
+MN00115,torres do sol,Reparação urgente,Piscina,Sistema de filtragem necessita manutenção,2024-10-13,2024-10-18,2024-10-23,GlobalTec Group,1194.16,Alta,Concluído
+MN00116,vila verde,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-02-13,2024-03-19,2024-03-31,SmartRepair Lda,408.19,Baixa,Concluído
+MN00117,JARDINS DA CIDADE,Inspecção,Piscina,Sistema de filtragem necessita manutenção,2023-11-05,2023-12-13,2024-01-11,masterfix lda,1513.41,Baixa,Concluído
+MN00118,JARDINS DA CIDADE,Reparação urgente,Jardim,Poda de árvores urgente,2024-02-15,2024-02-15,2024-02-16,SmartRepair Lda,1093.32,Crítica,Concluído
+MN00119,condomínio central,Inspeção,Elevador,Avaria no sistema de travagem,2024-12-30,2025-01-01,2025-01-02,MASTERFIX LDA,815.71,Crítica,Concluído
+MN00120,Vila Verde,Inspeção,Garagem,Marcações no chão necessitam repintura,2025-04-10,2025-04-11,2025-04-12,UltraFix & Filhos,3150.53,Crítica,Concluído
+MN00121,TORRES DO SOL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-05-26,2025-06-02,2025-06-19,GlobalTec Group,871.37,Média,Concluído
+MN00122,JARDINS DA CIDADE,Melhoria,Garagem,Portão automático avariado,2024-02-14,2024-02-28,2024-03-09,TecnoReparações Group,1139.56,Média,Concluído
+MN00123,CONDOMÍNIO CENTRAL,Reparação urgente,Elevador,Botões do painel não respondem,2024-01-12,2024-01-12,2024-01-15,MASTERFIX LDA,6063.95,Crítica,Concluído
+MN00124,Torres do Sol,Melhoria,Telhado,Impermeabilização degradada,2023-10-31,2023-11-06,2023-11-13,TecnoReparações Group,711.9,Alta,Concluído
+MN00125,Torres do Sol,Manutenção preventiva,Piscina,Bomba de circulação com ruído anormal !!!!,2024-01-17,2024-01-23,,UltraFix SA,566.69,Alta,EM ANÁLISE
+MN00126,TORRES DO SOL,Melhoria,Piscina,pH da água desregulado,2024-04-05,2024-04-05,2024-04-09,MasterFix Unipessoal,1402.7,Crítica,Concluído
+MN00127,jardins da cidade,Manutenção preventiva,Elevador,Botões do painel não respondem,2025-07-21,2025-08-07,2025-08-12,SmartRepair Solutions,509.3,Média,Concluído
+MN00128,Torres do Sol,Reparação urgente,Jardim,Sistema de rega avariado,2024-06-11,2024-06-11,2024-06-13,GlobalTec Group,1262.55,Crítica,Concluído
+MN00129,Torres do Sol,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2024-10-11,2024-10-25,2024-11-13,SmartRepair Solutions,813.27,MÉDIA,Concluído
+MN00130,Torres do Sol,Melhoria,Elevador,Avaria no sistema de travagem,2024-01-04,2024-01-17,2024-02-05,MasterFix Lda.,4570.76,Média,Concluído
+MN00131,torres do sol,Melhoria,Garagem,Piso com fissuras e buracos,2024-06-07,2024-06-08,2024-06-11,ProServiços SA,2467.66,Crítica,Concluído
+MN00132,jardins da cidade,Reparação urgente,Garagem,Piso com fissuras e buracos,2024-02-22,2024-02-22,2024-02-23,PrimeWorks Group,1496.66,Crítica,Concluído
+MN00133,Quinta das Palmeiras,Inspeção,Hall,Correio acumulado sem distribuição,2025-07-25,2025-08-12,2025-08-19,ProServiços SA,749.87,Média,Concluído
+MN00134,Condomínio Central,Reparação urgente,Elevador,Porta não fecha corretamente,2025-03-08,2025-03-10,2025-03-12,SmartRepair Lda,3574.98,Crítica,Concluído
+MN00135,CONDOMÍNIO CENTRAL,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2024-12-21,2024-12-21,2024-12-22,SmartRepair Solutions,14820.03,Crítica,Concluído
+MN00136,VILA VERDE,Reparação urgente,Jardim,Pragas detetadas nas plantas,2023-09-27,2023-09-29,2023-10-06,MasterFix Unipessoal,405.6,Alta,Concluído
+MN00137,Residencial Atlântico,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-02-25,2024-02-28,2024-03-03,ProServiços Group,1223.8,Alta,Concluído
+MN00138,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2025-08-10,2025-08-12,,ProServiços SA,4597.54,Alta,Em curso
+MN00139,TORRES DO SOL,Melhoria,Elevador,Ruído excessivo durante funcionamento,2025-01-18,2025-01-22,2025-01-29,UltraFix & Filhos,3416.61,Alta,Concluído
+MN00140,vila verde,Reparação urgente,Fachada,Pintura descascada em várias zonas,2024-06-24,2024-07-01,2024-07-08,GlobalTec Unipessoal,8532.35,Alta,Concluído
+MN00141,QUINTA DAS PALMEIRAS,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2024-12-01,2024-12-03,2024-12-12,ProServiços Group,6568.41,alta,Concluído
+MN00142,vila verde,Reparação urgente,Fachada,Revestimento cerâmico solto,2025-02-18,2025-02-21,,TecnoReparações Unipessoal,17654.93,Alta,reportado
+MN00143,Vila Verde,Reparação urgente,Hall,Correio acumulado sem distribuição,2024-05-26,2024-06-15,2024-06-30,MASTERFIX LDA,233.97,Media,Concluído
+MN00144,vila verde,Manutenção preventiva,Garagem,Portão automático avariado,2024-10-21,2024-10-27,2024-11-02,MasterFix Lda.,497.2,Alta,Concluído
+MN00145,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2025-05-16,2025-05-25,2025-06-07,MasterFix Unipessoal,2422.85,MÉDIA,Concluído
+MN00146,Vila Verde,Melhoria,Piscina,Vedação de segurança danificada,2024-05-09,2024-05-22,2024-06-08,UltraFix & Filhos,,Média,Concluído
+MN00147,quinta das palmeiras,Reparação urgente,Jardim,Pragas detetadas nas plantas,2023-12-20,2023-12-23,2023-12-26,MasterFix Unipessoal,172.11,Alta,Concluído
+MN00148,JARDINS DA CIDADE,Inspeção,Elevador,Ruído excessivo durante funcionamento,2023-09-18,2023-09-18,2023-09-22,PrimeWorks Group,6522.28,critica,Concluído
+MN00149,TORRES DO SOL,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2024-08-21,2024-08-23,2024-08-27,SmartRepair Lda,8310.96,Crítica,Concluído
+MN00150,QUINTA DAS PALMEIRAS,Manutenção preventiva,Garagem,Iluminação insuficiente,2025-01-02,2025-01-19,2025-02-04,ProServiços Solutions,1081.32,Baixa,Concluído
+MN00151,quinta das palmeiras,Manutenção preventiva,Telhado,Sistema de drenagem entupido,2024-08-01,2024-08-01,2024-08-03,UltraFix Group,17486.79,Crítica,Concluído
+MN00152,JARDINS DA CIDADE,Reparação urgente,Garagem,Portão automático avariado,2024-05-06,2024-05-07,2024-05-11,UltraFix & Filhos,1597.89,Crítica,Concluído
+MN00153,condomínio central,Reparação urgente,Jardim,Relva necessita tratamento,2025-04-11,2025-04-13,2025-04-18,UltraFix & Filhos,580.41,Alta,Concluído
+MN00154,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-09-06,2024-09-06,2024-09-10,MasterFix Unipessoal,1575.17,Crítica,Concluído
+MN00155,Condomínio Central,Melhoria,Piscina,pH da água desregulado,2024-02-11,2024-02-28,2024-03-09,GlobalTec Unipessoal,464.47,Média,Concluído
+MN00156,CONDOMÍNIO CENTRAL,Manutenção preventiva,Garagem,Portão automático avariado,2024-12-11,2024-12-18,2024-12-28,GlobalTec Unipessoal,1730.32,Alta,Concluído
+MN00157,TORRES DO SOL,Melhoria,Jardim,Poda de árvores urgente,2025-05-16,2025-05-21,2025-05-28,SmartRepair Solutions,71.33,Alta,Concluído
+MN00158,quinta das palmeiras,Melhoria,Piscina,Vedação de segurança danificada,2024-06-15,2024-07-04,2024-07-14,ProServiços Group,564.26,Baixa,Concluído
+MN00159,TORRES DO SOL,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2024-02-04,2024-02-05,2024-02-09,ProServiços Solutions,,Crítica,Concluído
+MN00160,CONDOMÍNIO CENTRAL,REPARAÇÃO URGENTE,Elevador,Avaria no sistema de travagem,2025-08-02,2025-08-04,,ProServiços SA,6111.82,Crítica,em curso
+MN00161,jardins da cidade,Manutenção preventiva,Garagem,Iluminação insuficiente,2023-11-23,2023-11-23,2023-11-26,SmartRepair Lda,3564.26,Crítica,Concluído
+MN00162,QUINTA DAS PALMEIRAS,Manutenção preventiva,Telhado,Impermeabilização degradada,2025-06-02,2025-06-04,2025-06-08,PrimeWorks Group,15086.18,Crítica,Concluído
+MN00163,Condomínio Central,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2025-07-29,2025-08-05,2025-08-14,TecnoReparações Solutions,4519.78,Alta,Concluído
+MN00164,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Telhado,Sistema de drenagem entupido,2023-11-29,2023-12-04,2023-12-13,ProServiços SA,1078.49,Alta,Concluído
+MN00165,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Jardim,Poda de árvores urgente !!!!,2024-03-22,2024-04-25,,MasterFix Unipessoal,274.22,Baixa,reportado
+MN00166,torres do sol,Melhoria,Elevador,Botões do painel não respondem,2024-11-27,2024-12-16,2024-12-29,GlobalTec Group,820.26,Baixa,Concluído
+MN00167,RESIDENCIAL ATLÂNTICO,Melhoria,Elevador,Avaria no sistema de travagem,2024-06-30,2024-08-11,,TecnoReparações Group,1887.94,Baixa,EM ANÁLISE
+MN00168,VILA VERDE,Melhoria,Garagem,Sistema de ventilação com problemas,2024-09-12,2024-10-06,2024-10-27,SmartRepair Lda,2097.13,Baixa,Concluído
+MN00169,JARDINS DA CIDADE,Inspeção,Piscina,Bomba de circulação com ruído anormal,2024-01-07,2024-01-07,2024-01-11,MASTERFIX LDA,512.81,Crítica,Concluído
+MN00170,Quinta das Palmeiras,Inspeção,Garagem,Portão automático avariado,2023-08-27,2023-08-28,2023-08-30,ProServiços SA,3567.18,Crítica,Concluído
+MN00171,JARDINS DA CIDADE,Inspeção,Jardim,Poda de árvores urgente,2025-03-17,2025-04-23,2025-05-07,UltraFix & Filhos,608.74,Baixa,Concluído
+MN00172,jardins da cidade,Reparação urgente,Garagem,Portão automático avariado,2025-06-05,2025-06-11,2025-06-15,ProServiços SA,1888.91,Alta,Concluído
+MN00173,Vila Verde,Melhoria,Jardm,Lâmpadas fundidas,2023-10-06,2023-10-13,2023-10-23,ProServiços Solutions,1484.81,Alta,Concluído
+MN00174,JARDINS DA CIDADE,Inspecção,Jardim,Pragas detetadas nas plantas,2024-07-05,2024-07-07,2024-07-14,GlobalTec Unipessoal,186.32,Alta,Concluído
+MN00175,Residencial Atlântico,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2024-01-16,2024-02-03,2024-02-23,ProServiços Group,2739.95,Média,Concluído
+MN00176,TORRES DO SOL,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2025-01-16,2025-01-22,2025-01-27,GlobalTec Group,237.97,Alta,Concluído
+MN00177,torres do sol,Reparação urgente,Hall,Intercomunicador avariado,2025-01-17,2025-01-17,2025-01-20,GlobalTec Group,1778.82,Crítica,Concluído
+MN00178,Quinta das Palmeiras,Manutenção preventiva,Piscina,Vedação de segurança danificada,2024-08-12,2024-08-20,2024-09-07,ProServiços Group,490.0,Média,Concluído
+MN00179,residencial atlântico,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-07-31,2025-08-14,,UltraFix & Filhos,1002.4,Média,Em curso
+MN00180,condomínio central,Manutenção preventiva,Hall,Correio acumulado sem distribuição,2023-10-07,2023-10-09,2023-10-18,ProServiços SA,1052.79,Alta,CONCLUIDO
+MN00181,Quinta das Palmeiras,Manutenção preventiva,Telhado,Infiltrações detetadas após temporal,2024-10-07,2024-10-09,2024-10-13,GlobalTec Unipessoal,17757.5,Crítica,Concluído
+MN00182,VILA VERDE,Inspeção,Fachada,Fissuras visíveis na parede norte,2025-07-18,2025-08-01,2025-08-17,GlobalTec Group,24263.66,Média,Concluído
+MN00183,vila verde,Melhoria,Jardim,Iluminação exterior fundida,2025-04-19,2025-04-26,2025-05-11,masterfix lda,909.41,Média,Concluído
+MN00184,CONDOMÍNIO CENTRAL,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-08-27,2024-08-27,2024-08-28,TecnoReparações Group,4566.07,Crítica,Concluído
+MN00185,JARDINS DA CIDADE,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-09-18,2024-09-25,2024-10-05,MasterFix Unipessoal,4840.5,Alta,Concluído
+MN00186,JARDINS DA CIDADE,Reparação urgente,Piscina,Azulejos partidos no fundo !!!!,2024-07-02,2024-07-04,2024-07-13,MASTERFIX LDA,184.63,Alta,Concluído
+MN00187,Vila Verde,Manutenção preventiva,Fachada,Humidade ascendente no piso térreo,2023-12-01,2023-12-01,2023-12-05,MASTERFIX LDA,3232.16,Crítica,Concluído
+MN00188,Condomínio Central,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-10-26,2024-10-28,2024-10-29,UltraFix & Filhos,9386.68,Crítica,Concluído
+MN00189,Torres do Sol,Inspeção,Elevador,Botões do painel não respondem,2024-06-08,2024-06-13,2024-06-23,SmartRepair Solutions,4823.24,Alta,Concluído
+MN00190,Condomínio Central,Reparação urgente,Garagem,Iluminação insuficiente,2024-10-02,2024-10-02,,ProServiços Solutions,474.6,Crítica,em curso
+MN00191,Torres do Sol,Reparação urgente,Elevador,Botões do painel não respondem,2025-08-12,2025-08-12,,TecnoReparações Unipessoal,4382.98,Crítica,EM ANÁLISE
+MN00192,Jardins da Cidade,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-12-27,2025-01-15,2025-02-10,GlobalTec Unipessoal,2893.28,Baixa,Concluído
+MN00193,Residencial Atlântico,Reparação urgente,Garagem,,2025-04-01,2025-04-08,2025-04-17,TecnoReparações Unipessoal,504.59,Alta,Concluído
+MN00194,quinta das palmeiras,Melhoria,Elevador,Botões do painel não respondem,2024-06-05,2024-06-06,2024-06-10,PrimeWorks Group,5895.7,Crítica,Concluído
+MN00195,Condomínio Central,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-09-20,2024-09-21,2024-09-25,SmartRepair Lda,6678.28,Crítica,Concluído
+MN00196,Vila Verde,Reparação urgente,Garagem,Sistema de ventilação com problemas,2024-08-19,2024-08-26,2024-09-01,GlobalTec Group,548.61,Alta,Concluído
+MN00197,residencial atlântico,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2023-11-29,2023-11-30,2023-12-05,ProServiços SA,,Crítica,Concluído
+MN00198,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2023-12-19,2024-01-09,2024-01-18,UltraFix & Filhos,2621.63,Média,Concluído
+MN00199,jardins da cidade,Melhoria,Fachada,Revestimento cerâmico solto,2023-10-06,2023-10-06,2023-10-08,ProServiços SA,18336400.0,Crítica,Concluído
+MN00200,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-02-27,2025-03-14,2025-03-19,MASTERFIX LDA,1234.54,Média,Concluído
+MN00201,Torres do Sol,Reparação urgente,Garagem,Sistema de ventilação com problemas,2023-10-02,2023-10-07,2023-10-14,GlobalTec Group,1310.78,Alta,Concluído
+MN00202,vila verde,Manutenção preventiva,Piscina,Bomba de circulação com ruído anormal,2023-10-18,2023-11-21,2023-12-08,UltraFix & Filhos,1740.25,Baixa,Concluído
+MN00203,Jardins da Cidade,Manutenção preventiva,Telhado,Impermeabilização degradada,2023-12-20,2024-01-03,2024-01-30,UltraFix SA,11461.29,Baixa,Concluído
+MN00204,Torres do Sol,Inspecção,Telhado,Estrutura de suporte com sinais de degradação,2025-03-11,2025-03-15,2025-03-25,UltraFix & Filhos,10770.41,Alta,Concluído
+MN00205,condomínio central,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-06-30,2024-07-01,2024-07-04,GlobalTec Unipessoal,20593.09,CRITICA,Concluído
+MN00206,torres do sol,Reparação urgente,Hall,Lâmpadas fundidas,2025-02-09,2025-02-11,2025-02-19,GlobalTec Group,1398.6,Alta,Concluído
+MN00207,JARDINS DA CIDADE,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2024-10-02,2024-10-03,2024-10-07,UltraFix SA,6181.32,Crítica,Concluído
+MN00208,TORRES DO SOL,Melhoria,Hall,,2025-01-08,2025-01-15,2025-01-26,TecnoReparações Solutions,1291.7,Média,Concluído
+MN00209,Quinta das Palmeiras,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2025-04-26,2025-04-28,2025-04-29,UltraFix SA,13238.89,Crítica,Concluído
+MN00210,QUINTA DAS PALMEIRAS,Manutenção preventiva,Garagem,Iluminação insuficiente !!!!,2023-12-13,2024-01-01,2024-01-13,GlobalTec Group,1435.85,Média,Concluído
+MN00211,RESIDENCIAL ATLÂNTICO,Melhoria,Telhado,,2024-07-22,2024-07-24,2024-07-29,UltraFix Group,17767.85,Crítica,Concluído
+MN00212,condomínio central,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2025-07-17,2025-07-22,2025-07-26,GlobalTec Unipessoal,12961.71,Alta,Concluído
+MN00213,Jardins da Cidade,Melhoria,Hall,Piso escorregadio necessita tratamento,2024-12-27,2025-01-07,2025-01-14,ProServiços Group,301.47,Média,Concluído
+MN00214,jardins da cidade,Melhoria,Hall,,2024-01-30,2024-02-04,2024-02-11,MasterFix Unipessoal,1376.16,Alta,Concluído
+MN00215,Torres do Sol,Manutencao preventiva,Garagem,Sistema de ventilação com problemas,2024-05-23,2024-05-30,2024-06-04,,270.64,Alta,Concluído
+MN00216,VILA VERDE,Manutenção preventiva,Piscina,pH da água desregulado,2025-02-05,2025-03-18,2025-04-14,ProServiços SA,527.14,Baixa,Concluído
+MN00217,QUINTA DAS PALMEIRAS,Manutenção preventiva,Jardim,Poda de árvores urgente,2024-09-05,2024-10-09,2024-11-01,ProServiços Group,222.46,Baixa,Concluído
+MN00218,Vila Verde,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2025-01-06,2025-01-18,2025-01-12,MasterFix Lda.,2330.84,Alta,Concluído
+MN00219,TORRES DO SOL,Melhoria,Garagem,Sistema de ventilação com problemas,2024-05-04,2024-05-08,2024-05-12,TecnoReparações Solutions,1736.26,Alta,Concluído
+MN00220,torres do sol,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-10-02,2024-10-07,2024-10-12,UltraFix & Filhos,2528.84,Alta,Concluído
+MN00221,JARDINS DA CIDADE,Reparação urgente,Piscina,Vedação de segurança danificada,2024-08-11,2024-08-16,2024-08-20,ProServiços SA,1176.9,Alta,Concluído
+MN00222,VILA VERDE,melhoria,Jardim,Pragas detetadas nas plantas,2024-09-05,2024-09-25,2024-10-10,ProServiços Group,885.65,Média,Concluído
+MN00223,Residencial Atlântico,Melhoria,Garagem,Piso com fissuras e buracos,2024-06-02,2024-06-19,2024-07-18,MasterFix Lda.,1525.78,Baixa,Concluído
+MN00224,TORRES DO SOL,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2023-11-03,2023-11-06,2023-11-10,GlobalTec Unipessoal,3179.8,Alta,Concluído
+MN00225,residencial atlântico,Reparação urgente,Elevador,Porta não fecha corretamente,2024-04-17,2024-04-24,2024-05-03,PrimeWorks Group,2372.94,Alta,Concluído
+MN00226,VILA VERDE,Reparação urgente,Garagem,Sistema de ventilação com problemas,2024-06-13,2024-06-18,2024-06-28,ProServiços SA,1186.8,Alta,Concluído
+MN00227,jardins da cidade,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2023-12-05,2023-12-05,2023-12-06,SmartRepair Lda,31140.26,Crítica,Concluído
+MN00228,Torres do Sol,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-06-20,2025-06-20,2025-06-23,PrimeWorks Group,3363.69,Crítica,Concluído
+MN00229,jardins da cidade,Manutenção preventiva,Telhado,Sistema de drenagem entupido,2025-07-11,2025-07-11,2025-07-13,ProServiços SA,8092.36,Crítica,Concluído
+MN00230,vila verde,Melhoria,Elevador,Porta não fecha corretamente,2024-09-11,2024-09-16,2024-09-25,PrimeWorks Group,1137.0,Alta,Concluído
+MN00231,TORRES DO SOL,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2025-03-17,2025-03-23,2025-03-28,MasterFix Unipessoal,11167.85,Alta,Concluído
+MN00232,CONDOMÍNIO CENTRAL,Inspeção,Telhado,Infiltrações detetadas após temporal,2024-08-18,2024-08-20,2024-08-22,TecnoReparações Group,17843.35,Crítica,Concluído
+MN00233,Jardins da Cidade,Melhoria,Elevador,Ruído excessivo durante funcionamento,2025-02-10,2025-03-04,2025-03-23,TecnoReparações Unipessoal,3853.91,Baixa,Concluído
+MN00234,vila verde,Melhoria,Piscina,Vedação de segurança danificada,2024-09-07,2024-09-25,2024-10-07,ProServiços Solutions,108.64,Média,Concluído
+MN00235,JARDINS DA CIDADE,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2023-09-08,2023-09-11,2023-09-15,UltraFix Group,11748.17,Alta,Concluído
+MN00236,Condomínio Central,Reparação urgente,Fachada,Humidade ascendente no piso térreo,2025-05-19,2025-05-22,2025-05-27,PrimeWorks Group,24540.25,Alta,Concluído
+MN00237,Condomínio Central,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-04-23,2024-04-26,2024-04-30,GlobalTec Unipessoal,3300.63,Alta,Concluído
+MN00238,Torres do Sol,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2024-02-05,2024-02-09,2024-02-14,PrimeWorks Group,10059.74,Alta,Concluído
+MN00239,jardins da cidade,Reparação urgente,Piscina,Sistema de filtragem necessita manutenção,2024-04-12,2024-04-16,2024-04-21,ProServiços SA,384.03,Alta,Concluído
+MN00240,Torres do Sol,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2025-03-21,2025-03-24,2025-03-29,GlobalTec Unipessoal,943.61,Alta,Concluído
+MN00241,JARDINS DA CIDADE,REPARAÇÃO URGENTE,Elevador,Ruído excessivo durante funcionamento,2025-03-05,2025-03-11,2025-03-17,UltraFix & Filhos,3629.92,Alta,Concluído
+MN00242,JARDINS DA CIDADE,Reparação urgente,Hall,Lâmpadas fundidas,2024-01-13,2024-01-14,2024-01-16,masterfix lda,192.14,Crítica,Concluído
+MN00243,CONDOMÍNIO CENTRAL,Melhoria,Hall,Lâmpadas fundidas,2023-12-28,2024-01-07,2024-01-14,ProServiços Group,978.37,Media,Concluído
+MN00244,torres do sol,Reparação urgente,Elevador,Avaria no sistema de travagem,2025-02-26,2025-03-04,2025-03-12,GlobalTec Unipessoal,3557.75,Alta,Concluído
+MN00245,Condomínio Central,Inspeção,Fachada,Pintura descascada em várias zonas,2025-01-17,2025-01-23,2025-02-02,ProServiços SA,10533.32,Alta,Concluído
+MN00246,Residencial Atlântico,Reparação urgente,Garagem,Portão automático avariado,2024-02-16,2024-02-21,2024-02-28,,1290.53,Alta,Concluído
+MN00247,TORRES DO SOL,Melhoria,Elevador,Porta não fecha corretamente,2025-06-09,2025-07-02,2025-07-17,MASTERFIX LDA,4188.45,Baixa,Concluído
+MN00248,QUINTA DAS PALMEIRAS,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2023-10-21,2023-10-23,2023-11-02,ProServiços Solutions,401.95,Alta,Concluído
+MN00249,Residencial Atlântico,Manutenção preventiva,Telhado,Impermeabilização degradada,2024-08-02,2024-08-28,2024-09-11,masterfix lda,,Baixa,Concluído
+MN00250,quinta das palmeiras,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-12-23,2025-01-09,2025-01-23,UltraFix SA,4932.75,Média,Concluído
+MN00251,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-07-21,2024-08-25,2024-09-21,UltraFix Group,3309.25,Baixa,Concluído
+MN00252,residencial atlântico,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2024-05-24,2024-05-30,2024-06-07,UltraFix & Filhos,9998.04,Alta,Concluído
+MN00253,Torres do Sol,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2025-01-09,2025-02-11,2025-03-04,GlobalTec Unipessoal,14667.8,Baixa,Concluído
+MN00254,Torres do Sol,Manutenção preventiva,Piscina,Vedação de segurança danificada,2024-07-11,2024-07-16,2024-07-26,MasterFix Lda.,105.7,Alta,Concluído
+MN00255,vila verde,Melhoria,Telhado,Telhas partidas necessitam substituição,2024-02-13,2024-02-17,2024-02-23,UltraFix SA,7951.04,Alta,Concluído
+MN00256,Condomínio Central,Melhoria,Telhado,Telhas partidas necessitam substituição,2025-05-28,2025-06-01,2025-06-11,UltraFix SA,11257.84,Alta,Concluído
+MN00257,condomínio central,Melhoria,Elevador,Porta não fecha corretamente,2024-08-12,2024-08-14,2024-08-15,MasterFix Unipessoal,3524.67,Crítica,Concluído
+MN00258,condomínio central,Reparação urgente,Jardim,Relva necessita tratamento,2024-09-21,2024-09-22,2024-09-21,GlobalTec Unipessoal,1239.77,Crítica,Concluído
+MN00259,TORRES DO SOL,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2025-04-12,2025-04-18,2025-04-27,GlobalTec Unipessoal,8650.04,Alta,Concluído
+MN00260,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-10-24,2024-11-03,2024-11-20,ProServiços Solutions,2240.99,Media,Concluído
+MN00261,Residencial Atlântico,Manutenção preventiva,Fachada,Humidade ascendente no piso térreo,2023-11-14,2023-11-30,2023-12-18,UltraFix Group,12451.87,Média,Concluído
+MN00262,Vila Verde,Melhoria,Garagem,Marcações no chão necessitam repintura,2025-01-13,2025-01-14,2025-01-17,SmartRepair Solutions,4482.53,Crítica,Concluído
+MN00263,Jardins da Cidade,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2025-03-16,2025-03-20,2025-03-27,PrimeWorks Group,415.64,Alta,Concluído
+MN00264,torres do sol,Inspeção,Jardim,Sistema de rega avariado,2025-01-23,2025-01-28,,MasterFix Unipessoal,120.72,Alta,aprovado
+MN00265,Condomínio Central,Melhoria,Telhado,Infiltrações detetadas após temporal,2025-06-11,2025-06-18,2025-07-04,TecnoReparações Unipessoal,7462.65,Média,Concluído
+MN00266,Condomínio Central,Inspeção,Elevador,Botões do painel não respondem,2025-04-29,2025-05-03,2025-05-12,UltraFix & Filhos,2788.97,Alta,Concluído
+MN00267,RESIDENCIAL ATLÂNTICO,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2025-01-03,2025-01-06,2025-01-14,,17416.95,Alta,Concluído
+MN00268,RESIDENCIAL ATLÂNTICO,Melhoria,Telhado,Telhas partidas necessitam substituição,2025-08-03,2025-08-03,2025-08-05,ProServiços SA,8507.89,Crítica,Concluído
+MN00269,TORRES DO SOL,Melhoria,Piscina,pH da água desregulado,2024-01-11,2024-01-15,2024-01-25,GlobalTec Unipessoal,417.46,Alta,Concluído
+MN00270,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Hall,Lâmpadas fundidas,2025-08-08,2025-08-28,2025-09-09,PrimeWorks Group,1020.78,Média,Concluído
+MN00271,JARDINS DA CIDADE,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2024-04-03,2024-04-05,2024-04-09,MasterFix Unipessoal,13681.21,Crítica,Concluído
+MN00272,TORRES DO SOL,Manutenção preventiva,Piscina,Vedação de segurança danificada,2025-07-03,2025-08-08,,GlobalTec Unipessoal,1323.53,Baixa,Em curso
+MN00273,QUINTA DAS PALMEIRAS,Melhoria,Hall,Piso escorregadio necessita tratamento,2024-09-17,2024-09-30,2024-10-13,UltraFix & Filhos,739.76,Média,Concluído
+MN00274,Quinta das Palmeiras,Melhoria,Garagem,Sistema de ventilação com problemas,2024-08-30,2024-09-26,2024-10-08,masterfix lda,967.04,Baixa,Concluído
+MN00275,TORRES DO SOL,Manutenção preventiva,Jardim,,2025-01-06,2025-01-08,,MasterFix Lda.,370.42,Alta,EM ANÁLISE
+MN00276,torres do sol,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2024-02-04,2024-02-04,2024-02-08,MasterFix Lda.,16483.39,Crítica,Concluído
+MN00277,VILA VERDE,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-09-14,2024-09-18,,MasterFix Unipessoal,1287.91,Alta,EM ANÁLISE
+MN00278,Torres do Sol,Melhoria,Elevador,Botões do painel não respondem !!!!,2025-05-12,2025-05-30,2025-06-12,ProServiços SA,3431.09,Média,Concluído
+MN00279,jardins da cidade,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2024-05-19,2024-05-22,2024-05-28,GlobalTec Group,574.7,Alta,Concluído
+MN00280,jardins da cidade,Melhoria,Fachada,Necessária limpeza e tratamento anti-grafitti,2023-11-07,2023-11-09,2023-11-14,GlobalTec Group,14901.0,Crítica,Concluído
+MN00281,Torres do Sol,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2024-11-23,2024-11-25,,ProServiços SA,4131.94,Alta,em curso
+MN00282,residencial atlântico,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2025-04-28,2025-04-28,2025-04-30,GlobalTec Unipessoal,4509.5,Crítica,Concluído
+MN00283,residencial atlântico,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-03-29,2024-04-18,2024-05-04,SmartRepair Lda,2971.47,Baixa,Concluído
+MN00284,Torres do Sol,Melhoria,Garagem,Piso com fissuras e buracos,2024-10-06,2024-10-06,2024-10-11,MasterFix Unipessoal,3525.3,Crítica,Concluído
+MN00285,RESIDENCIAL ATLÂNTICO,Reparação urgente,Hall,Correio acumulado sem distribuição,2024-08-19,2024-08-26,2024-09-04,UltraFix Group,596.22,Alta,Concluído
+MN00286,Jardins da Cidade,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2024-04-13,2024-04-15,2024-04-18,UltraFix & Filhos,7027.93,Crítica,Concluído
+MN00287,residencial atlântico,Manutenção preventiva,Jardim,Poda de árvores urgente,2024-07-17,2024-07-21,2024-07-30,UltraFix & Filhos,617.58,Alta,Concluído
+MN00288,Torres do Sol,Manutenção preventiva,Jardim,Iluminação exterior fundida,2024-07-29,2024-09-06,2024-09-17,UltraFix Group,554.0,Baixa,Concluído
+MN00289,quinta das palmeiras,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2023-12-08,2023-12-09,2023-12-14,MasterFix Lda.,919.75,Crítica,Concluído
+MN00290,Vila Verde,Melhoria,Garagem,Iluminação insuficiente,2025-02-16,2025-02-21,2025-02-24,TecnoReparações Unipessoal,2238.07,Alta,Concluído
+MN00291,quinta das palmeiras,Manutenção preventiva,Telhado,Impermeabilização degradada,2025-07-26,2025-08-02,2025-08-06,MasterFix Unipessoal,9853.68,Alta,Concluído
+MN00292,Torres do Sol,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-06-24,2025-07-06,,UltraFix SA,2020.85,Média,em curso
+MN00293,torres do sol,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2024-09-22,2024-11-02,2024-11-15,MASTERFIX LDA,1720.83,baixa,Concluído
+MN00294,Jardins da Cidade,Reparação urgente,Piscina,pH da água desregulado !!!!,2023-10-07,2023-10-10,2023-10-13,UltraFix & Filhos,105.44,Alta,Concluído
+MN00295,CONDOMÍNIO CENTRAL,Inspeção,Hall,Intercomunicador avariado,2024-03-18,2024-04-19,2024-05-11,SmartRepair Lda,592.97,Baixa,Concluído
+MN00296,Condomínio Central,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2024-10-14,2024-11-18,2024-11-25,TecnoReparações Group,3555.93,Baixa,Concluído
+MN00297,TORRES DO SOL,Melhoria,Elevador,Botões do painel não respondem,2024-03-04,2024-03-05,2024-03-07,UltraFix & Filhos,686.68,Crítica,Concluído
+MN00298,TORRES DO SOL,Reparação urgente,Jardim,Iluminação exterior fundida,2024-04-05,2024-04-11,2024-04-21,GlobalTec Unipessoal,400.78,Alta,Concluído
+MN00299,condomínio central,Reparação urgente,Hall,Intercomunicador avariado,2023-12-08,2023-12-14,2023-12-22,MasterFix Unipessoal,1427.61,Alta,Concluído
+MN00300,TORRES DO SOL,melhoria,Piscina,pH da água desregulado,2025-02-02,2025-02-09,2025-02-27,ProServiços Solutions,1525.62,Média,Concluído
+MN00301,vila verde,Melhoria,Garagem,,2024-05-12,2024-06-07,2024-06-29,MasterFix Lda.,2791.59,Baixa,Concluído
+MN00302,Jardins da Cidade,Inspeção,Jardim,Relva necessita tratamento,2024-06-26,2024-06-28,2024-07-03,masterfix lda,439.03,Alta,Concluído
+MN00303,jardins da cidade,Inspeção,Hall,Espelho partido na entrada,2025-04-11,2025-04-17,,GlobalTec Group,302.35,Alta,reportado
+MN00304,Jardins da Cidade,Reparação urgente,Piscina,pH da água desregulado,2024-01-07,2024-01-12,2024-01-15,TecnoReparações Unipessoal,1470.82,Alta,Concluído
+MN00305,JARDINS DA CIDADE,Inspeção,Telhado,Infiltrações detetadas após temporal,2024-01-30,2024-02-01,2024-02-04,,3611.28,Crítica,Concluído
+MN00306,Quinta das Palmeiras,Melhoria,Jardim,Iluminação exterior fundida,2023-09-10,2023-10-11,,UltraFix Group,596.83,Baixa,reportado
+MN00307,Quinta das Palmeiras,Manutenção preventiva,Hall,Correio acumulado sem distribuição,2024-02-03,2024-02-05,2024-02-06,ProServiços Solutions,1842.42,Crítica,Concluído
+MN00308,Torres do Sol,Inspeção,Jardim,Iluminação exterior fundida,2024-09-30,2024-11-11,2024-11-24,PrimeWorks Group,469.09,Baixa,Concluído
+MN00309,VILA VERDE,Inspeção,Jardim,Relva necessita tratamento,2023-11-15,2023-11-16,2023-11-19,SmartRepair Solutions,553.18,Crítica,Concluído
+MN00310,Quinta das Palmeiras,Inspeção,Piscina,pH da água desregulado,2024-01-05,2024-01-07,2024-01-10,GlobalTec Unipessoal,1599.24,Crítica,Concluído
+MN00311,jardins da cidade,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-10-23,2024-10-24,2024-10-25,GlobalTec Unipessoal,1670.91,Crítica,Concluído
+MN00312,CONDOMÍNIO CENTRAL,Reparação urgente,Fachada,,2024-05-24,2024-05-29,2024-06-02,UltraFix SA,3692.82,Alta,Concluído
+MN00313,jardins da cidade,Inspeção,Elevador,Avaria no sistema de travagem,2023-12-01,2023-12-21,2023-12-31,ProServiços SA,4982.06,Baixa,Concluído
+MN00314,JARDINS DA CIDADE,Melhoria,Piscina,Azulejos partidos no fundo,2025-02-09,2025-02-20,2025-03-04,ProServiços Group,1646.37,Média,Concluído
+MN00315,VILA VERDE,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2025-04-11,2025-04-13,2025-04-18,UltraFix & Filhos,5592.44,Alta,Concluído
+MN00316,Condomínio Central,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2023-11-25,2023-11-26,2023-11-30,SmartRepair Solutions,7204.56,Crítica,Concluído
+MN00317,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Botões do painel não respondem,2024-09-30,2024-10-06,2024-10-09,TecnoReparações Solutions,2666.09,Alta,Concluído
+MN00318,RESIDENCIAL ATLÂNTICO,Reparação urgente,Jardim,Poda de árvores urgente,2025-05-01,2025-05-01,2025-05-03,SmartRepair Lda,968.21,Crítica,Concluído
+MN00319,Torres do Sol,Melhoria,Garagem,Piso com fissuras e buracos !!!!,2025-05-17,2025-06-17,2025-07-14,GlobalTec Unipessoal,0.0,Baixa,Concluído
+MN00320,condomínio central,Reparação urgente,Hall,Lâmpadas fundidas,2024-12-09,2024-12-11,2024-12-18,ProServiços Solutions,769.23,Alta,Concluído
+MN00321,vila verde,Melhoria,Fachada,Necessária limpeza e tratamento anti-grafitti,2024-08-01,2024-08-29,2024-09-08,GlobalTec Unipessoal,21741.79,Baixa,Concluído
+MN00322,Quinta das Palmeiras,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2024-01-18,2024-02-01,2024-02-09,ProServiços SA,5903.8,Baixa,Concluído
+MN00323,torres do sol,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-07-23,2025-07-28,2025-08-05,UltraFix SA,960.48,Alta,Concluído
+MN00324,JARDINS DA CIDADE,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2023-10-22,2023-10-24,2023-10-30,GlobalTec Unipessoal,8276.11,Alta,Concluído
+MN00325,torres do sol,Melhoria,Fachada,Fissuras visíveis na parede norte,2025-05-05,2025-05-09,2025-05-12,ProServiços SA,11424.58,Alta,Concluído
+MN00326,Quinta das Palmeiras,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2025-05-27,2025-05-27,2025-06-01,SmartRepair Lda,5772.9,Crítica,Concluído
+MN00327,Jardins da Cidade,Reparação urgente,Jardim,Sistema de rega avariado,2024-07-10,2024-07-15,2024-07-24,SmartRepair Solutions,160.94,Alta,Concluído
+MN00328,Torres do Sol,Manutenção preventiva,Jardim,Poda de árvores urgente,2025-07-08,2025-08-16,2025-08-26,GlobalTec Unipessoal,958.11,Baixa,Concluído
+MN00329,quinta das palmeiras,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-02-05,2024-02-05,2024-02-09,TecnoReparações Unipessoal,3634.49,Crítica,Concluído
+MN00330,CONDOMÍNIO CENTRAL,Manutencao preventiva,Jardim,Pragas detetadas nas plantas,2023-11-11,2023-12-17,,ProServiços Group,260.14,baixa,em curso
+MN00331,quinta das palmeiras,Reparação urgente,Garagem,Iluminação insuficiente,2025-06-01,2025-06-03,2025-06-05,SmartRepair Lda,3303.94,Crítica,Concluído
+MN00332,Quinta das Palmeiras,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2023-09-14,2023-09-16,2023-09-20,MASTERFIX LDA,3542.55,Crítica,Concluído
+MN00333,residencial atlântico,Melhoria,Hall,Piso escorregadio necessita tratamento,2024-09-07,2024-09-14,2024-09-19,GlobalTec Unipessoal,1288.23,Alta,Concluído
+MN00334,torres do sol,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-11-24,2024-11-24,2024-11-26,UltraFix & Filhos,6826.23,Crítica,Concluído
+MN00335,vila verde,Melhoria,Garagem,Sistema de ventilação com problemas,2023-11-17,2023-11-30,2023-12-19,MASTERFIX LDA,1755.92,Média,Concluído
+MN00336,Jardins da Cidade,Manutenção preventiva,Piscina,Sistema de filtragem necessita manutenção,2023-09-08,2023-10-12,2023-10-25,UltraFix & Filhos,799.74,Baixa,Concluído
+MN00337,RESIDENCIAL ATLÂNTICO,Melhoria,Garagem,Piso com fissuras e buracos,2024-06-09,2024-06-12,2024-06-22,UltraFix & Filhos,974.52,Alta,Concluído
+MN00338,quinta das palmeiras,Inspeção,Elevador,Botões do painel não respondem,2024-05-02,2024-05-04,2024-05-07,SmartRepair Lda,4344.03,Crítica,Concluído
+MN00339,jardins da cidade,Reparação urgente,Piscina,Azulejos partidos no fundo,2025-04-16,2025-04-16,2025-04-19,TecnoReparações Group,1855.66,Crítica,Concluído
+MN00340,vila verde,REPARAÇÃO URGENTE,Piscina,Azulejos partidos no fundo,2023-12-23,2023-12-26,2024-01-04,ProServiços SA,1355.28,Alta,Concluído
+MN00341,CONDOMÍNIO CENTRAL,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2023-09-22,2023-09-27,2023-10-07,UltraFix & Filhos,881.38,Alta,Concluído
+MN00342,Residencial Atlântico,Melhoria,Telhado,Impermeabilização degradada,2025-04-01,2025-04-12,2025-04-17,UltraFix Group,730.48,Média,Concluído
+MN00343,CONDOMÍNIO CENTRAL,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2025-07-13,2025-07-13,2025-07-17,masterfix lda,,Crítica,Concluído
+MN00344,Jardins da Cidade,Reparação urgente,Telhado,Sistema de drenagem entupido,2023-09-18,2023-09-18,2023-09-19,TecnoReparações Solutions,11239.6,Crítica,Concluído
+MN00345,residencial atlântico,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2023-10-04,2023-10-05,2023-10-09,UltraFix SA,1906.83,Crítica,Concluído
+MN00346,TORRES DO SOL,Inspeção,Jardim,Sistema de rega avariado,2025-05-30,2025-06-01,2025-06-02,ProServiços SA,924.54,Crítica,Concluído
+MN00347,JARDINS DA CIDADE,Reparação urgente,Jardim,Relva necessita tratamento,2025-08-06,2025-08-09,2025-08-14,GlobalTec Unipessoal,79.64,Alta,Concluído
+MN00348,torres do sol,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2023-12-01,2024-01-04,2024-02-02,PrimeWorks Group,1333.4,Baixa,Concluído
+MN00349,condomínio central,Reparação urgente,Piscina,Sistema de filtragem necessita manutenção,2023-12-30,2024-01-02,2024-01-12,PrimeWorks Group,516.42,alta,Concluído
+MN00350,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-01-23,2024-01-26,2024-01-31,MASTERFIX LDA,4735.35,Alta,Concluído
+MN00351,Jardins da Cidade,Reparação urgente,Piscina,Azulejos partidos no fundo,2025-05-19,2025-05-24,2025-05-28,GlobalTec Unipessoal,1180.55,Alta,Concluído
+MN00352,vila verde,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2025-01-13,2025-01-19,2025-01-25,GlobalTec Unipessoal,2070.05,Alta,Concluído
+MN00353,RESIDENCIAL ATLÂNTICO,Reparação urgente,Hall,Lâmpadas fundidas,2024-11-02,2024-11-02,2024-11-03,masterfix lda,170.19,Crítica,Concluído
+MN00354,condomínio central,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-02-08,2024-02-10,2024-02-20,ProServiços SA,5387.83,Alta,Concluído
+MN00355,vila verde,Reparação urgente,Elevador,Avaria no sistema de travagem,2025-04-20,2025-04-26,2025-05-04,TecnoReparações Group,307.26,Alta,Concluído
+MN00356,vila verde,Reparação urgente,Garagem,Iluminação insuficiente,2024-02-07,2024-02-10,2024-02-14,ProServiços SA,2404.16,Alta,Concluído
+MN00357,CONDOMÍNIO CENTRAL,Inspeção,Hall,Piso escorregadio necessita tratamento,2023-12-25,2023-12-27,2023-12-31,GlobalTec Group,670.45,Crítica,Concluído
+MN00358,vila verde,Reparação urgente,Jardim,Sistema de rega avariado,2024-12-15,2024-12-17,2024-12-19,GlobalTec Unipessoal,1273.65,Crítica,Concluído
+MN00359,Residencial Atlântico,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2023-09-14,2023-09-15,2023-09-19,TecnoReparações Group,6706.41,Crítica,Concluído
+MN00360,condomínio central,Inspeção,Elevador,Porta não fecha corretamente,2025-02-25,2025-02-26,,ProServiços Group,1139.96,Crítica,em curso
+MN00361,Quinta das Palmeiras,Inspeção,Hall,Correio acumulado sem distribuição,2024-04-25,2024-04-26,2024-04-29,TecnoReparações Solutions,447.85,Crítica,Concluído
+MN00362,vila verde,Reparação urgente,Fachada,Revestimento cerâmico solto,2025-03-23,2025-03-29,2025-04-03,masterfix lda,2614.06,Alta,Concluído
+MN00363,VILA VERDE,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-01-20,2024-01-27,2024-02-15,GlobalTec Unipessoal,2941.23,MÉDIA,Concluído
+MN00364,QUINTA DAS PALMEIRAS,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2025-01-03,2025-01-15,2025-02-01,UltraFix Group,163.87,Média,Concluído
+MN00365,residencial atlântico,Manutenção preventiva,Elvador,Lâmpadas fundidas,2023-10-02,2023-10-04,2023-10-07,SmartRepair Lda,1467.97,Crítica,Concluído
+MN00366,Vila Verde,Reparação urgente,Hall,Intercomunicador avariado,2023-10-02,2023-10-02,2023-10-03,masterfix lda,717.51,Crítica,Concluído
+MN00367,JARDINS DA CIDADE,Inspeção,Elevador,Porta não fecha corretamente,2025-02-24,2025-03-04,2025-03-21,TecnoReparações Solutions,4150.66,Media,Concluído
+MN00368,QUINTA DAS PALMEIRAS,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-02-03,2024-02-03,2024-02-08,TecnoReparações Solutions,2107.26,Crítica,Concluído
+MN00369,Jardins da Cidade,Reparação urgente,Hall,Correio acumulado sem distribuição,2025-01-13,2025-01-14,2025-01-15,masterfix lda,1665.27,Crítica,Concluído
+MN00370,jardins da cidade,Reparação urgente,Jardim,Sistema de rega avariado,2025-05-27,2025-05-29,2025-06-02,UltraFix SA,1415.05,Crítica,Concluído
+MN00371,Quinta das Palmeiras,Melhoria,Piscina,pH da água desregulado,2024-03-16,2024-03-19,2024-03-26,UltraFix Group,531.13,Alta,Concluído
+MN00372,Condomínio Central,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-07-24,2024-07-31,2024-08-09,UltraFix & Filhos,4243.33,Alta,Concluído
+MN00373,condomínio central,Melhoria,Elevador,Porta não fecha corretamente,2025-08-06,2025-08-08,2025-08-10,GlobalTec Unipessoal,3502.5,Crítica,Concluído
+MN00374,TORRES DO SOL,Inspeção,Telhado,Impermeabilização degradada,2024-01-03,2024-01-16,2024-01-21,TecnoReparações Unipessoal,8058.97,Média,Concluído
+MN00375,Vila Verde,Inspeção,Garagem,,2024-06-01,2024-06-18,2024-06-27,MASTERFIX LDA,1493.92,Média,Concluído
+MN00376,Jardins da Cidade,Inspeção,Garagem,Piso com fissuras e buracos,2024-11-21,2024-12-14,2025-01-08,MasterFix Lda.,2067.32,Baixa,Concluído
+MN00377,CONDOMÍNIO CENTRAL,Melhoria,Telhado,Infiltrações detetadas após temporal,2025-05-22,2025-06-01,,MasterFix Unipessoal,6567.63,Média,em curso
+MN00378,Condomínio Central,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2024-09-11,2024-09-18,2024-09-23,ProServiços SA,623.15,Alta,Concluído
+MN00379,Torres do Sol,Melhoria,Hall,Lâmpadas fundidas,2025-07-20,2025-07-21,2025-07-23,ProServiços SA,886.71,Crítica,Concluído
+MN00380,quinta das palmeiras,Manutenção preventiva,Telhado,Impermeabilização degradada,2023-09-25,2023-10-10,2023-11-08,GlobalTec Unipessoal,14911.77,Baixa,Concluído
+MN00381,Vila Verde,Reparação urgente,Piscina,Bomba de circulação com ruído anormal,2024-11-19,2024-11-19,2024-11-23,UltraFix & Filhos,336.92,Crítica,CONCLUIDO
+MN00382,Torres do Sol,Melhoria,Jardim,Poda de árvores urgente,2025-01-07,2025-01-10,2025-01-19,UltraFix & Filhos,310.75,alta,Concluído
+MN00383,Condomínio Central,Manutenção preventiva,Piscina,,2025-08-03,2025-08-03,2025-08-04,TecnoReparações Group,2529.67,Crítica,Concluído
+MN00384,CONDOMÍNIO CENTRAL,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2023-11-24,2023-12-06,2023-12-18,UltraFix & Filhos,7113.49,Média,Concluído
+MN00385,Torres do Sol,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2024-04-27,2024-05-10,2024-05-19,ProServiços SA,416.39,MÉDIA,Concluído
+MN00386,residencial atlântico,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2024-09-07,2024-09-21,2024-09-27,TecnoReparações Group,6096.79,Média,Concluído
+MN00387,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Jardim,Iluminação exterior fundida,2023-09-30,2023-10-07,2023-10-16,SmartRepair Solutions,588.62,Alta,Concluído
+MN00388,jardins da cidade,Inspeção,Garagem,Sistema de ventilação com problemas,2024-04-29,2024-04-29,2024-05-02,ProServiços SA,1425.35,Crítica,Concluído
+MN00389,Torres do Sol,melhoria,Fachada,Humidade ascendente no piso térreo,2025-06-08,2025-07-07,2025-07-25,UltraFix SA,15256.78,Baixa,Concluído
+MN00390,residencial atlântico,Inspeção,Elevador,Avaria no sistema de travagem,2023-12-03,2024-01-08,2024-01-17,ProServiços SA,1943.23,Baixa,Concluído
+MN00391,torres do sol,Reparação urgente,Elevador,,2024-08-11,2024-08-12,2024-08-16,ProServiços SA,1034.74,Crítica,Concluído
+MN00392,Condomínio Central,Melhoria,Jardim,Iluminação exterior fundida,2024-01-19,2024-01-29,2024-02-07,UltraFix & Filhos,647.41,Média,Concluído
+MN00393,TORRES DO SOL,Melhoria,Garagem,Marcações no chão necessitam repintura,2023-10-07,2023-10-13,2023-10-18,MasterFix Unipessoal,2089.17,Alta,Concluído
+MN00394,Quinta das Palmeiras,Inspeção,Garagem,Sistema de ventilação com problemas,2023-09-19,2023-09-26,2023-10-06,MasterFix Unipessoal,1664.88,Alta,Concluído
+MN00395,JARDINS DA CIDADE,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2023-10-26,2023-10-28,2023-10-29,SmartRepair Lda,5345.72,Crítica,Concluído
+MN00396,Residencial Atlântico,Melhoria,Garagem,Portão automático avariado,2025-04-24,2025-04-24,2025-04-25,masterfix lda,1357.82,Crítica,Concluído
+MN00397,TORRES DO SOL,Reparação urgente,Jardim,Relva necessita tratamento,2023-10-21,2023-10-25,2023-11-03,SmartRepair Lda,482.66,Alta,Concluído
+MN00398,TORRES DO SOL,Manutenção preventiva,Jardim,Sistema de rega avariado,2024-02-08,2024-02-11,2024-02-20,ProServiços SA,537.02,Alta,Concluído
+MN00399,Residencial Atlântico,Melhoria,Elevador,Porta não fecha corretamente,2025-06-27,2025-06-30,2025-07-05,GlobalTec Unipessoal,3467.64,Alta,Concluído
+MN00400,Residencial Atlântico,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-08-08,2024-08-24,2024-09-13,ProServiços SA,1449.18,Média,Concluído
+MN00401,residencial atlântico,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-11-29,2024-12-31,2025-01-16,MasterFix Lda.,581.71,Baixa,Concluído
+MN00402,Vila Verde,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2025-04-11,2025-04-29,2025-05-06,UltraFix & Filhos,136.3,Média,Concluído
+MN00403,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-11-29,2024-12-15,2025-01-06,PrimeWorks Group,4724.08,baixa,Concluído
+MN00404,QUINTA DAS PALMEIRAS,Melhoria,Jardim,Sistema de rega avariado,2024-07-22,2024-08-06,2024-08-26,UltraFix & Filhos,994.63,Média,Concluído
+MN00405,Quinta das Palmeiras,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-10-09,2024-10-12,2024-10-16,UltraFix & Filhos,4074.4,Alta,Concluído
+MN00406,residencial atlântico,Melhoria,Hall,Espelho partido na entrada,2025-05-25,2025-05-25,2025-05-29,ProServiços Group,825.45,Crítica,Concluído
+MN00407,residencial atlântico,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-11-08,2024-11-22,2024-12-05,UltraFix SA,2451.02,Média,Concluído
+MN00408,jardins da cidade,Melhoria,Elevador,Botões do painel não respondem,2023-12-28,2023-12-28,2023-12-29,UltraFix SA,5076.86,Crítica,Concluído
+MN00409,jardins da cidade,Melhoria,Garagem,Marcações no chão necessitam repintura,2025-06-07,2025-06-21,2025-07-03,ProServiços SA,2970.45,Média,Concluído
+MN00410,quinta das palmeiras,Reparação urgente,Piscina,Bomba de circulação com ruído anormal,2025-05-17,2025-05-18,2025-05-20,ProServiços SA,617.92,Crítica,Concluído
+MN00411,Residencial Atlântico,Inspecção,Elevador,Botões do painel não respondem,2024-05-08,2024-05-27,2024-06-03,UltraFix Group,1225.65,Baixa,Concluído
+MN00412,TORRES DO SOL,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-01-15,2024-01-29,2024-01-22,ProServiços Group,2261.3,Alta,Concluído
+MN00413,Residencial Atlântico,Reparação urgente,Garagem,Portão automático avariado,2025-02-04,2025-02-07,2025-02-17,MasterFix Unipessoal,2116.38,Alta,Concluído
+MN00414,CONDOMÍNIO CENTRAL,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-11-28,2024-11-28,2024-12-03,MasterFix Unipessoal,1411.07,Crítica,Concluído
+MN00415,Torres do Sol,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2024-02-23,2024-04-04,2024-05-04,PrimeWorks Group,1414.45,baixa,Concluído
+MN00416,Quinta das Palmeiras,Melhoria,Telhado,Impermeabilização degradada,2024-12-29,2024-12-29,2025-01-02,masterfix lda,12526.33,Crítica,Concluído
+MN00417,Residencial Atlântico,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2025-07-28,2025-08-02,2025-08-07,SmartRepair Lda,321.69,alta,Concluído
+MN00418,VILA VERDE,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-01-07,2025-01-20,2025-02-09,TecnoReparações Unipessoal,4422.47,Média,Concluído
+MN00419,QUINTA DAS PALMEIRAS,Manutenção preventiva,Piscina,Bomba de circulação com ruído anormal,2025-01-24,2025-02-03,2025-02-16,TecnoReparações Solutions,223.13,Media,Concluído
+MN00420,Vila Verde,Manutenção preventiva,Jardim,Poda de árvores urgente,2024-01-12,2024-01-26,2024-02-12,UltraFix & Filhos,359.91,Média,Concluído
+MN00421,residencial atlântico,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2023-12-09,2023-12-14,2023-12-20,ProServiços SA,3483.53,Alta,Concluido
+MN00422,jardins da cidade,Manutenção preventiva,Garagem,Iluminação insuficiente,2024-11-19,2024-11-26,2024-12-09,MASTERFIX LDA,581.51,Média,Concluído
+MN00423,Torres do Sol,Reparação urgente,Garagem,Portão automático avariado,2024-07-01,2024-07-01,2024-07-05,GlobalTec Unipessoal,914.45,Crítica,Concluído
+MN00424,Torres do Sol,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória !!!!,2023-12-25,2024-01-05,2024-01-14,masterfix lda,2754.27,Média,Concluído
+MN00425,torres do sol,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2025-06-22,2025-06-23,2025-06-24,UltraFix & Filhos,3877.7,Crítica,Concluído
+MN00426,Torres do Sol,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-04-06,2024-04-09,2024-04-14,ProServiços Group,11222.61,Alta,Concluído
+MN00427,VILA VERDE,Reparação urgente,Jardim,Iluminação exterior fundida,2025-04-27,2025-05-01,2025-05-07,TecnoReparações Solutions,524.45,Alta,Concluído
+MN00428,Condomínio Central,melhoria,Hall,Intercomunicador avariado,2023-11-07,2023-11-28,2023-12-16,masterfix lda,515.82,Média,Concluído
+MN00429,vila verde,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-09-14,2024-09-18,2024-09-26,ProServiços SA,2650.94,Alta,Concluído
+MN00430,RESIDENCIAL ATLÂNTICO,Inspeção,Elevador,Ruído excessivo durante funcionamento,2025-02-07,2025-02-12,2025-02-22,UltraFix & Filhos,356.99,Alta,Concluído
+MN00431,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2025-08-04,2025-09-02,2025-09-17,masterfix lda,2311.99,Baixa,Concluído
+MN00432,condomínio central,Manutenção preventiva,Garagem,Iluminação insuficiente,2023-11-06,2023-11-20,2023-12-16,PrimeWorks Group,902.31,Baixa,Concluído
+MN00433,CONDOMÍNIO CENTRAL,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2025-05-14,2025-05-24,2025-06-09,MasterFix Unipessoal,785.25,Média,Concluído
+MN00434,torres do sol,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-12-31,2025-01-30,2025-02-19,UltraFix SA,3236.13,Baixa,Concluído
+MN00435,Quinta das Palmeiras,Manutenção preventiva,Hall,Intercomunicador avariado,2025-05-14,2025-06-01,2025-06-21,GlobalTec Unipessoal,266.18,Média,Concluído
+MN00436,VILA VERDE,Melhoria,Garagem,Iluminação insuficiente,2023-11-11,2023-11-13,2023-11-14,TecnoReparações Group,3363.99,Crítica,Concluído
+MN00437,JARDINS DA CIDADE,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2024-09-27,2024-09-30,2024-10-04,GlobalTec Unipessoal,5828.38,Alta,Concluído
+MN00438,QUINTA DAS PALMEIRAS,Reparação urgente,Jardim,Sistema de rega avariado,2025-06-28,2025-07-05,2025-07-09,GlobalTec Unipessoal,285.65,Alta,Concluído
+MN00439,Jardins da Cidade,Inspeção,Jardim,Iluminação exterior fundida,2025-03-19,2025-03-21,2025-03-28,TecnoReparações Unipessoal,122.92,Alta,Concluído
+MN00440,Jardins da Cidade,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-06-05,2024-06-06,2024-06-09,SmartRepair Solutions,3865.38,Crítica,Concluído
+MN00441,jardins da cidade,Melhoria,Jardim,Pragas detetadas nas plantas,2024-05-14,2024-05-17,2024-05-23,TecnoReparações Solutions,454.68,Alta,Concluído
+MN00442,torres do sol,REPARAÇÃO URGENTE,Elevador,Botões do painel não respondem,2023-12-22,2023-12-24,2023-12-26,MasterFix Unipessoal,5012.99,Crítica,Concluído
+MN00443,Quinta das Palmeiras,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-05-06,2024-05-06,2024-05-09,MASTERFIX LDA,3450.02,Crítica,Concluído
+MN00444,VILA VERDE,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-05-25,2024-05-28,2024-06-06,GlobalTec Unipessoal,1645.94,Alta,Concluído
+MN00445,JARDINS DA CIDADE,Manutenção preventiva,Garagem,,2025-06-08,2025-07-02,2025-07-12,ProServiços Solutions,2230.2,Baixa,Concluído
+MN00446,vila verde,Manutenção preventiva,Hall,Espelho partido na entrada,2025-06-21,2025-06-22,2025-06-23,TecnoReparações Unipessoal,,CRITICA,Concluído
+MN00447,condomínio central,REPARAÇÃO URGENTE,Elevador,Botões do painel não respondem,2023-12-10,2023-12-13,,PrimeWorks Group,2572.59,Alta,EM ANÁLISE
+MN00448,CONDOMÍNIO CENTRAL,Manutencao preventiva,Garagem,Marcações no chão necessitam repintura,2024-03-20,2024-03-27,2024-04-05,SmartRepair Lda,2398.49,Alta,Concluído
+MN00449,JARDINS DA CIDADE,Inspecção,Fachada,Humidade ascendente no piso térreo,2024-04-04,2024-04-09,2024-04-18,ProServiços SA,1355.96,Alta,Concluído
+MN00450,jardins da cidade,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2023-08-25,2023-08-27,2023-08-31,MasterFix Unipessoal,1837.39,Crítica,Concluído
+MN00451,CONDOMÍNIO CENTRAL,Manutenção preventiva,Jardim,Poda de árvores urgente,2025-07-31,2025-08-29,,UltraFix & Filhos,823.05,Baixa,Em curso
+MN00452,TORRES DO SOL,Inspeção,Telhado,Impermeabilização degradada,2025-01-29,2025-02-05,,ProServiços Solutions,10279.68,Alta,EM ANÁLISE
+MN00453,Condomínio Central,Reparação urgente,Piscina,Sistema de filtragem necessita manutenção !!!!,2023-12-29,2024-01-01,2024-01-08,masterfix lda,499.53,Alta,Concluído
+MN00454,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-06-11,2024-06-16,2024-06-26,UltraFix & Filhos,3815.15,Alta,Concluído
+MN00455,residencial atlântico,Reparação urgente,Elevador,Botões do painel não respondem,2023-10-21,2023-10-22,2023-10-25,UltraFix Group,6004.03,Crítica,Concluído
+MN00456,CONDOMÍNIO CENTRAL,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-06-06,2024-06-10,2024-06-16,GlobalTec Group,3282.08,Alta,Concluído
+MN00457,jardins da cidade,Reparação urgente,Fachada,Revestimento cerâmico solto,2023-09-01,2023-09-03,2023-09-07,MASTERFIX LDA,7168.79,Alta,Concluído
+MN00458,Vila Verde,Manutenção preventiva,Jardim,Relva necessita tratamento,2023-09-13,2023-09-17,2023-09-20,,410.84,Alta,Concluído
+MN00459,Quinta das Palmeiras,Inspeção,Elevador,Ruído excessivo durante funcionamento,2025-08-05,2025-08-07,2025-08-10,UltraFix Group,589.9,Alta,Concluído
+MN00460,RESIDENCIAL ATLÂNTICO,Reparação urgente,Jardim,Pragas detetadas nas plantas,2024-12-05,2024-12-26,2024-12-17,GlobalTec Unipessoal,592.15,MÉDIA,Concluído
+MN00461,vila verde,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2024-11-30,2025-01-04,2025-01-20,ProServiços SA,1294.44,Baixa,Concluído
+MN00462,JARDINS DA CIDADE,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-08-27,2024-08-27,2024-08-31,UltraFix Group,16041.78,Crítica,Concluído
+MN00463,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2023-09-30,2023-10-02,2023-10-05,MasterFix Unipessoal,,Crítica,Concluído
+MN00464,jardins da cidade,Reparação urgente,Jardim,Sistema de rega avariado,2023-11-06,2023-11-08,2023-11-13,ProServiços SA,918.64,Crítica,Concluído
+MN00465,QUINTA DAS PALMEIRAS,Inspeção,Jardim,,2024-09-23,2024-10-03,2024-10-11,UltraFix SA,913.61,Média,Concluído
+MN00466,torres do sol,Manutenção preventiva,Fachada,Fissuras visíveis na parede norte,2024-06-21,2024-06-28,2024-07-08,SmartRepair Lda,21160.74,Alta,Concluído
+MN00467,CONDOMÍNIO CENTRAL,Inspeção,Elevador,Ruído excessivo durante funcionamento,2024-08-18,2024-08-24,2024-09-03,UltraFix SA,2336.53,Alta,Concluído
+MN00468,VILA VERDE,Reparação urgente,Piscina,Azulejos partidos no fundo,2024-04-26,2024-04-27,2024-05-01,TecnoReparações Group,2379.92,Crítica,Concluído
+MN00469,condomínio central,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2024-06-04,2024-06-30,2024-07-27,UltraFix Group,498.34,Baixa,Concluído
+MN00470,Jardins da Cidade,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-05-15,2025-05-17,2025-05-18,TecnoReparações Group,2411.25,Crítica,Concluído
+MN00471,Vila Verde,Reparação urgente,Jardim,Sistema de rega avariado,2023-10-11,2023-10-11,,masterfix lda,835.23,Crítica,EM ANÁLISE
+MN00472,QUINTA DAS PALMEIRAS,Melhoria,Jardim,Pragas detetadas nas plantas,2024-04-13,2024-04-15,2024-04-16,MasterFix Lda.,-324.66,critica,Concluído
+MN00473,residencial atlântico,Melhoria,Elevador,Avaria no sistema de travagem,2023-12-09,2023-12-21,2024-01-09,MASTERFIX LDA,2565.18,Média,Concluído
+MN00474,CONDOMÍNIO CENTRAL,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2024-06-28,2024-06-29,2024-07-03,SmartRepair Solutions,3850.63,Crítica,Concluído
+MN00475,condomínio central,Manutenção preventiva,Jardim,Sistema de rega avariado,2025-01-17,2025-02-07,2025-02-17,ProServiços Solutions,117.74,Média,Concluído
+MN00476,Quinta das Palmeiras,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2025-04-05,2025-04-11,2025-04-17,TecnoReparações Group,1751.63,Alta,Concluído
+MN00477,residencial atlântico,Inspeção,Telhado,Infiltrações detetadas após temporal,2025-02-12,2025-03-04,2025-03-16,GlobalTec Group,7753.11,Média,Concluído
+MN00478,JARDINS DA CIDADE,Inspeção,Garagem,Piso com fissuras e buracos,2023-10-12,2023-10-19,2023-10-29,,1195.38,Alta,Concluído
+MN00479,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-04-20,2024-04-25,2024-04-29,TecnoReparações Unipessoal,589.61,Alta,Concluído
+MN00480,Condomínio Central,Inspeção,Jardim,Poda de árvores urgente,2024-02-19,2024-03-07,2024-03-17,TecnoReparações Group,767.35,Média,Concluído
+MN00481,Jardins da Cidade,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2023-12-11,2023-12-16,2023-12-21,SmartRepair Solutions,2893.92,Alta,Concluído
+MN00482,TORRES DO SOL,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-05-20,2024-05-21,2024-05-23,UltraFix & Filhos,993.83,Crítica,Concluído
+MN00483,Vila Verde,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2024-11-11,2024-11-11,2024-11-16,ProServiços Solutions,3783.8,Crítica,Concluído
+MN00484,Condomínio Central,Manutenção preventiva,Fachada,Fissuras visíveis na parede norte,2025-01-01,2025-01-11,2025-01-30,UltraFix & Filhos,1050.46,Média,Concluído
+MN00485,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2024-06-28,2024-07-03,2024-07-11,TecnoReparações Unipessoal,399.59,Alta,Concluído
+MN00486,Residencial Atlântico,Melhoria,Jardim,Sistema de rega avariado,2024-07-30,2024-07-30,2024-08-04,UltraFix SA,279.27,Crítica,Concluído
+MN00487,QUINTA DAS PALMEIRAS,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-04-21,2024-04-27,2024-05-03,TecnoReparações Unipessoal,2952.82,Alta,Concluído
+MN00488,Quinta das Palmeiras,Manutenção preventiva,Garagem,Iluminação insuficiente,2025-07-12,2025-07-19,2025-07-25,TecnoReparações Solutions,113.89,Média,Concluído
+MN00489,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Hall,Intercomunicador avariado,2023-11-16,2023-11-20,2023-11-23,SmartRepair Lda,1233.83,Alta,Concluído
+MN00490,condomínio central,Reparação urgente,Jardim,Relva necessita tratamento,2024-02-24,2024-02-26,2024-03-02,MasterFix Unipessoal,427.92,Crítica,Concluído
+MN00491,Vila Verde,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2025-03-07,2025-04-12,2025-04-20,TecnoReparações Unipessoal,1599.95,Baixa,Concluído
+MN00492,Quinta das Palmeiras,Melhoria,Hall,Espelho partido na entrada,2023-09-25,2023-09-29,2023-10-03,UltraFix & Filhos,486.51,Alta,Concluído
+MN00493,Residencial Atlântico,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-01-26,2024-02-14,2024-02-26,UltraFix SA,1219.25,Média,Concluído
+MN00494,Vila Verde,Manutenção preventiva,Fachada,Fissuras visíveis na parede norte,2025-06-19,2025-07-11,2025-07-31,ProServiços Group,7692.86,Baixa,Concluído
+MN00495,torres do sol,Melhoria,Jardim,Poda de árvores urgente,2023-11-24,2023-12-08,2023-12-17,MasterFix Unipessoal,111.47,Baixa,Concluído
+MN00496,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2024-11-09,2024-11-20,2024-12-05,MasterFix Unipessoal,9973.54,Média,Concluído
+MN00497,Condomínio Central,Melhoria,Telhado,Telhas partidas necessitam substituição,2024-06-27,2024-07-30,2024-08-29,ProServiços SA,13994.16,Baixa,Concluído
+MN00498,quinta das palmeiras,Inspeção,Fachada,Fissuras visíveis na parede norte,2023-09-25,2023-09-26,2023-10-01,MasterFix Unipessoal,15111.3,Crítica,CONCLUIDO
+MN00499,CONDOMÍNIO CENTRAL,Inspeção,Telhado,,2023-10-27,2023-10-27,2023-10-29,GlobalTec Unipessoal,20546.28,Crítica,Concluído
+MN00500,VILA VERDE,Manutenção preventiva,Piscina,Vedação de segurança danificada,2024-10-06,2024-10-08,2024-10-10,GlobalTec Unipessoal,503.75,Crítica,CONCLUIDO
+MN00501,jardins da cidade,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-02-08,2025-02-10,2025-02-12,MASTERFIX LDA,4659.17,Crítica,Concluído
+MN00502,jardins da cidade,Reparação urgente,Jardim,Relva necessita tratamento,2024-10-10,2024-10-13,2024-10-23,TecnoReparações Unipessoal,394.95,Alta,Concluído
+MN00503,torres do sol,Inspeção,Fachada,Pintura descascada em várias zonas,2025-07-21,2025-08-10,2025-09-06,MASTERFIX LDA,12319.69,Baixa,Concluído
+MN00504,VILA VERDE,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-03-05,2024-03-20,2024-04-03,ProServiços Solutions,661.74,Média,Concluído
+MN00505,jardins da cidade,Melhoria,Garagem,Iluminação insuficiente,2024-12-18,2025-01-02,2025-01-11,GlobalTec Group,1567.06,Baixa,Concluído
+MN00506,Vila Verde,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2025-07-14,2025-07-16,2025-07-18,PrimeWorks Group,7039.17,Crítica,Concluído
+MN00507,CONDOMÍNIO CENTRAL,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2023-11-06,2023-11-08,2023-11-13,GlobalTec Unipessoal,1973.57,Alta,Concluído
+MN00508,Vila Verde,Melhoria,Telhado,Telhas partidas necessitam substituição,2025-06-01,2025-06-03,2025-06-13,UltraFix & Filhos,8056.13,Alta,Concluído
+MN00509,TORRES DO SOL,Melhoria,Jardim,Sistema de rega avariado,2024-07-08,2024-07-08,2024-07-10,TecnoReparações Group,1203.36,Crítica,Concluído
+MN00510,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Botões do painel não respondem,2023-11-07,2023-11-07,2023-11-09,UltraFix & Filhos,3145.23,Crítica,Concluído
+MN00511,TORRES DO SOL,Reparação urgente,Jardim,Pragas detetadas nas plantas,2023-12-08,2023-12-13,2023-12-17,TecnoReparações Group,970.27,Alta,Concluído
+MN00512,Quinta das Palmeiras,Melhoria,Jardim,Poda de árvores urgente,2025-05-27,2025-05-28,2025-05-31,SmartRepair Solutions,1087.19,Crítica,Concluído
+MN00513,condomínio central,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-01-15,2024-01-15,2024-01-17,ProServiços SA,2959.25,Crítica,Concluído
+MN00514,jardins da cidade,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-04-10,2024-05-01,2024-05-09,MasterFix Lda.,1881.88,Baixa,Concluído
+MN00515,quinta das palmeiras,Melhoria,Fachada,Humidade ascendente no piso térreo,2024-04-15,2024-04-23,2024-05-01,UltraFix & Filhos,5569.46,Média,Concluído
+MN00516,condomínio central,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-11-13,2024-12-08,2024-12-17,MasterFix Unipessoal,214.42,Baixa,Concluído
+MN00517,quinta das palmeiras,Manutenção preventiva,Garagem,Portão automático avariado,2023-11-19,2023-11-19,2023-11-22,PrimeWorks Group,1407.65,Crítica,Concluído
+MN00518,TORRES DO SOL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-01-07,2025-01-13,2025-01-23,SmartRepair Solutions,1067.76,Alta,Concluído
+MN00519,Residencial Atlântico,Inspeção,Garagem,Iluminação insuficiente,2025-06-29,2025-07-06,2025-07-16,ProServiços SA,2437.72,Alta,Concluído
+MN00520,RESIDENCIAL ATLÂNTICO,Reparação urgente,Telhado,Estrutura de suporte com sinais de degradação,2024-09-26,2024-10-03,2024-10-10,MasterFix Lda.,9211.89,Alta,Concluído
+MN00521,Torres do Sol,Inspeção,Jardim,Sistema de rega avariado,2024-12-09,2024-12-09,2024-12-10,masterfix lda,1179.45,Crítica,Concluído
+MN00522,Jardins da Cidade,Inspecção,Elevador,Botões do painel não respondem,2024-04-05,2024-05-06,2024-05-27,UltraFix & Filhos,1103.62,Baixa,Concluído
+MN00523,Condomínio Central,Manutenção preventiva,Garagem,Iluminação insuficiente,2024-03-17,2024-04-19,2024-05-01,MasterFix Unipessoal,747.96,Baixa,Concluído
+MN00524,CONDOMÍNIO CENTRAL,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2024-01-11,2024-01-31,2024-02-17,TecnoReparações Group,3879.27,Média,Concluído
+MN00525,Torres do Sol,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-03-24,2024-04-06,2024-04-15,GlobalTec Unipessoal,,Média,Concluído
+MN00526,VILA VERDE,Melhoria,Jardim,Iluminação exterior fundida,2025-06-27,2025-07-13,2025-07-24,GlobalTec Unipessoal,989.71,Média,Concluído
+MN00527,Quinta das Palmeiras,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2024-05-22,2024-05-24,2024-05-29,ProServiços SA,21450.82,Crítica,Concluído
+MN00528,Jardins da Cidade,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-02-13,2024-02-18,2024-02-24,MasterFix Unipessoal,2355.27,Alta,Concluído
+MN00529,Torres do Sol,Reparação urgente,Telhado,Impermeabilização degradada,2024-05-30,2024-06-02,2024-06-11,TecnoReparações Solutions,5554.29,Alta,Concluído
+MN00530,condomínio central,Inspeção,Elevador,Avaria no sistema de travagem,2024-10-18,2024-10-18,2024-10-23,ProServiços Group,6903.28,Crítica,Concluído
+MN00531,Quinta das Palmeiras,Manutenção preventiva,Hall,,2024-06-15,2024-06-22,2024-07-02,UltraFix & Filhos,835.93,Alta,Concluído
+MN00532,vila verde,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2023-10-24,2023-10-24,2023-10-28,ProServiços Group,2234.12,Crítica,Concluído
+MN00533,Quinta das Palmeiras,Melhoria,Elevador,Porta não fecha corretamente,2025-01-22,2025-03-08,2025-04-01,SmartRepair Lda,3035.03,Baixa,Concluído
+MN00534,condomínio central,Melhoria,Telhado,Telhas partidas necessitam substituição,2025-07-03,2025-07-20,2025-08-02,MASTERFIX LDA,,Média,Concluído
+MN00535,Quinta das Palmeiras,Manutenção preventiva,Garagem,Piso com fissuras e buracos,2025-07-14,2025-07-23,2025-08-05,MasterFix Lda.,1207.92,Media,Concluído
+MN00536,Jardins da Cidade,Manutenção preventiva,Telhado,Sistema de drenagem entupido,2025-01-16,2025-01-19,2025-01-25,TecnoReparações Group,7837.52,Alta,Concluído
+MN00537,vila verde,Reparação urgente,Jardim,Poda de árvores urgente,2025-04-08,2025-04-10,2025-04-14,GlobalTec Group,918.81,Alta,Concluído
+MN00538,Quinta das Palmeiras,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2024-03-17,2024-03-24,2024-03-27,UltraFix Group,443.07,Alta,Concluído
+MN00539,residencial atlântico,Inspecção,Hall,Lâmpadas fundidas,2025-02-07,2025-02-08,2025-02-09,ProServiços SA,420.52,Crítica,Concluído
+MN00540,jardins da cidade,Reparação urgente,Piscina,Azulejos partidos no fundo,2023-12-19,2023-12-21,2023-12-25,PrimeWorks Group,485.47,Alta,Concluído
+MN00541,CONDOMÍNIO CENTRAL,Reparação urgente,Piscina,,2024-11-03,2024-11-10,2024-11-17,ProServiços SA,1563.15,Alta,Concluído
+MN00542,Residencial Atlântico,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2024-09-23,2024-09-23,2024-09-28,UltraFix SA,21431.73,Crítica,Concluído
+MN00543,condomínio central,Reparação urgente,Garagem,Sistema de ventilação com problemas,2024-12-12,2024-12-15,2024-12-20,MasterFix Unipessoal,1309.44,Alta,Concluído
+MN00544,vila verde,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2024-01-10,2024-01-22,2024-02-07,MASTERFIX LDA,2107.0,Média,Concluído
+MN00545,RESIDENCIAL ATLÂNTICO,Melhoria,Jardim,Pragas detetadas nas plantas,2024-06-27,2024-07-04,2024-07-11,TecnoReparações Unipessoal,457.88,Alta,Concluído
+MN00546,Condomínio Central,Manutencao preventiva,Garagem,Portão automático avariado,2024-11-12,2024-11-25,2024-12-03,,967.93,Média,Concluído
+MN00547,VILA VERDE,Reparação urgente,Elevador,Porta não fecha corretamente,2023-09-25,2023-09-28,2023-10-02,UltraFix & Filhos,4976.04,Alta,Concluído
+MN00548,QUINTA DAS PALMEIRAS,Melhoria,Hall,Espelho partido na entrada,2024-01-19,2024-02-09,2024-02-22,UltraFix & Filhos,1068.72,Média,Concluído
+MN00549,JARDINS DA CIDADE,Reparação urgente,Elevador,Ruído excessivo durante funcionamento !!!!,2024-07-17,2024-07-20,2024-07-28,ProServiços Solutions,1741.92,Alta,Concluído
+MN00550,Torres do Sol,Melhoria,Elevador,Botões do painel não respondem,2025-07-23,2025-08-22,,SmartRepair Solutions,525.52,Baixa,Em curso
+MN00551,CONDOMÍNIO CENTRAL,Inspeção,Garagem,Piso com fissuras e buracos,2025-07-14,2025-07-17,2025-07-23,ProServiços Solutions,2320.06,Alta,Concluído
+MN00552,vila verde,Manutenção preventiva,Jardim,Iluminação exterior fundida,2024-11-23,2024-11-30,2024-12-09,GlobalTec Unipessoal,856.67,alta,Concluído
+MN00553,jardins da cidade,Reparação urgente,Elevador,Porta não fecha corretamente,2025-06-23,2025-06-25,2025-07-05,ProServiços SA,1727.9,Alta,Concluído
+MN00554,TORRES DO SOL,Manutenção preventiva,Garagem,Iluminação insuficiente,2024-10-28,2024-11-03,2024-11-10,TecnoReparações Solutions,516.64,Alta,Concluído
+MN00555,jardins da cidade,REPARAÇÃO URGENTE,Hall,Intercomunicador avariado,2024-03-10,2024-03-16,2024-03-20,ProServiços SA,1448.36,Alta,Concluído
+MN00556,VILA VERDE,Melhoria,Fachada,Humidade ascendente no piso térreo,2024-03-05,2024-03-31,2024-04-16,UltraFix Group,,Baixa,Concluído
+MN00557,Torres do Sol,Reparação urgente,Jardm,Lâmpadas fundidas,2024-09-21,2024-09-21,2024-09-24,GlobalTec Unipessoal,1067.32,Crítica,Concluído
+MN00558,Quinta das Palmeiras,Manutenção preventiva,Jardim,Poda de árvores urgente,2023-09-08,2023-10-13,2023-11-04,GlobalTec Unipessoal,274.18,Baixa,Concluído
+MN00559,Quinta das Palmeiras,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-07-11,2024-07-13,2024-07-16,GlobalTec Unipessoal,6504.91,Crítica,Concluído
+MN00560,VILA VERDE,Reparação urgente,Garagem,Piso com fissuras e buracos,2025-04-27,2025-04-29,2025-05-01,UltraFix SA,2061.78,Crítica,Concluído
+MN00561,quinta das palmeiras,Melhoria,Fachada,Humidade ascendente no piso térreo,2024-09-11,2024-09-12,2024-09-15,PrimeWorks Group,3791.79,Crítica,Concluído
+MN00562,JARDINS DA CIDADE,Manutenção preventiva,Elevador,Porta não fecha corretamente,2023-10-11,2023-10-30,2023-11-19,ProServiços SA,729.97,Baixa,Concluído
+MN00563,condomínio central,Inspeção,Hall,Piso escorregadio necessita tratamento,2025-07-27,2025-08-05,,GlobalTec Group,1016.01,Média,Em curso
+MN00564,torres do sol,Melhoria,Elevador,Ruído excessivo durante funcionamento,2025-07-19,2025-07-19,2025-07-24,SmartRepair Solutions,1308.86,Crítica,Concluído
+MN00565,torres do sol,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2024-03-26,2024-05-08,2024-05-28,ProServiços Solutions,13090.62,Baixa,Concluído
+MN00566,Residencial Atlântico,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2025-02-03,2025-02-05,2025-02-09,PrimeWorks Group,4481.88,Crítica,Concluído
+MN00567,condomínio central,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2024-09-27,2024-09-27,2024-09-29,TecnoReparações Group,2051.02,Crítica,Concluído
+MN00568,TORRES DO SOL,Manutenção preventiva,Hall,Correio acumulado sem distribuição,2024-01-27,2024-03-03,2024-03-17,PrimeWorks Group,221.12,Baixa,Concluído
+MN00569,Quinta das Palmeiras,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-08-09,2024-08-28,2024-09-16,UltraFix Group,1058.89,Baixa,Concluído
+MN00570,torres do sol,Inspeção,Garagem,,2023-10-25,2023-12-02,2023-12-15,GlobalTec Group,1691.21,Baixa,Concluído
+MN00571,vila verde,Reparação urgente,Piscina,Vedação de segurança danificada,2023-11-10,2023-11-10,2023-11-12,UltraFix SA,811.57,Crítica,Concluído
+MN00572,condomínio central,Manutenção preventiva,Telhado,Impermeabilização degradada,2025-05-22,2025-05-28,2025-06-01,GlobalTec Group,12806.35,Alta,Concluído
+MN00573,Quinta das Palmeiras,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-01-18,2025-02-02,2025-02-12,TecnoReparações Solutions,3910.16,Baixa,Concluído
+MN00574,Torres do Sol,Manutenção preventiva,Jardim,Sistema de rega avariado,2023-12-02,2024-01-10,2024-01-24,TecnoReparações Group,713.59,Baixa,Concluído
+MN00575,Torres do Sol,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-04-05,2024-04-07,2024-04-09,TecnoReparações Solutions,3392.58,Crítica,Concluído
+MN00576,Jardins da Cidade,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2023-09-27,2023-09-29,2023-10-08,TecnoReparações Solutions,1165.88,Alta,Concluído
+MN00577,CONDOMÍNIO CENTRAL,Reparação urgente,Piscina,Azulejos partidos no fundo,2024-08-25,2024-08-29,2024-09-02,ProServiços SA,356.21,Alta,Concluído
+MN00578,Quinta das Palmeiras,Reparação urgente,Elevador,Avaria no sistema de travagem,2024-07-27,2024-08-01,2024-08-10,SmartRepair Lda,768.1,Alta,Concluído
+MN00579,quinta das palmeiras,Manutenção preventiva,Jardim,Iluminação exterior fundida,2023-09-19,2023-10-14,2023-10-26,GlobalTec Unipessoal,685.52,Baixa,Concluído
+MN00580,Condomínio Central,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2024-08-19,2024-08-21,2024-08-23,PrimeWorks Group,2312.05,Crítica,Concluído
+MN00581,RESIDENCIAL ATLÂNTICO,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-04-08,2024-04-08,2024-04-10,TecnoReparações Group,3627.17,Crítica,Concluído
+MN00582,Quinta das Palmeiras,Inspeção,Jardim,Relva necessita tratamento,2025-03-03,2025-03-13,2025-04-02,UltraFix SA,620.58,Média,Concluído
+MN00583,VILA VERDE,Manutenção preventiva,Jardim,Poda de árvores urgente,2023-11-13,2023-12-24,2024-01-20,UltraFix Group,472.69,Baixa,Concluído
+MN00584,CONDOMÍNIO CENTRAL,Melhoria,Elevador,Porta não fecha corretamente,2023-12-15,2023-12-15,2023-12-17,UltraFix & Filhos,4111.23,Crítica,Concluído
+MN00585,Torres do Sol,Reparação urgente,Hall,Lâmpadas fundidas,2023-10-19,2023-11-04,2023-11-10,UltraFix SA,1064.64,MÉDIA,Concluído
+MN00586,JARDINS DA CIDADE,Melhoria,Elevador,Avaria no sistema de travagem,2025-06-20,2025-06-24,2025-07-01,GlobalTec Unipessoal,2088.79,Alta,Concluído
+MN00587,Condomínio Central,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2023-11-25,2023-12-02,2023-12-05,TecnoReparações Solutions,1619.78,Alta,Concluído
+MN00588,Vila Verde,Melhoria,Elevador,Avaria no sistema de travagem,2024-02-13,2024-03-20,2024-04-02,UltraFix & Filhos,1641.88,Baixa,Concluído
+MN00589,Condomínio Central,Inspeção,Piscina,Azulejos partidos no fundo,2024-07-31,2024-08-07,2024-08-10,,703.92,Alta,Concluído
+MN00590,torres do sol,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-02-24,2024-02-24,2024-02-25,UltraFix & Filhos,2909.13,Crítica,Concluído
+MN00591,JARDINS DA CIDADE,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-12-27,2024-12-30,2025-01-06,SmartRepair Solutions,3977.55,Alta,Concluído
+MN00592,TORRES DO SOL,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-04-11,2024-04-13,2024-04-14,MasterFix Unipessoal,310.0,Crítica,Concluído
+MN00593,Residencial Atlântico,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2024-10-03,2024-10-29,2024-11-06,ProServiços SA,663.1,Baixa,Concluido
+MN00594,jardins da cidade,Inspeção,Garagem,Iluminação insuficiente,2024-01-30,2024-02-25,2024-03-13,UltraFix SA,262.62,Baixa,Concluído
+MN00595,Vila Verde,Inspeção,Garagem,Portão automático avariado,2023-12-05,2023-12-18,2024-01-04,SmartRepair Solutions,,Média,Concluído
+MN00596,Condomínio Central,Reparação urgente,Garagem,Iluminação insuficiente,2024-08-23,2024-08-28,2024-09-07,ProServiços SA,2157.0,Alta,Concluído
+MN00597,vila verde,Melhoria,Piscina,Vedação de segurança danificada,2024-09-30,2024-10-01,2024-10-05,MasterFix Lda.,2571.84,Crítica,Concluído
+MN00598,CONDOMÍNIO CENTRAL,Melhoria,Piscina,Azulejos partidos no fundo,2023-12-13,2024-01-09,2024-02-01,MasterFix Unipessoal,1859.63,Baixa,Concluído
+MN00599,torres do sol,Inspecção,Piscina,Bomba de circulação com ruído anormal,2025-08-01,2025-09-04,,TecnoReparações Unipessoal,943.43,Média,Em curso
+MN00600,vila verde,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2025-02-13,2025-02-15,2025-02-17,UltraFix Group,1840.91,Crítica,Concluído
+MN00601,Condomínio Central,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2025-05-12,2025-05-13,,GlobalTec Unipessoal,1084.34,Crítica,reportado
+MN00602,Torres do Sol,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-05-08,2024-05-29,2024-06-06,GlobalTec Unipessoal,1985.23,Média,Concluído
+MN00603,residencial atlântico,Reparação urgente,Fachada,Necessária limpeza e tratamento anti-grafitti,2024-06-05,2024-06-05,2024-06-08,GlobalTec Unipessoal,25169.77,Crítica,Concluído
+MN00604,Jardins da Cidade,Reparação urgente,Elevador,Botões do painel não respondem,2025-03-17,2025-03-19,2025-03-21,ProServiços SA,3113.67,Crítica,Concluído
+MN00605,Vila Verde,Reparação urgente,Jardim,Iluminação exterior fundida,2024-05-27,2024-06-16,2024-06-22,SmartRepair Solutions,464.21,MÉDIA,Concluído
+MN00606,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Porta não fecha corretamente,2025-07-14,2025-07-14,2025-07-15,masterfix lda,5999.83,CRITICA,Concluído
+MN00607,JARDINS DA CIDADE,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2025-06-03,2025-06-05,2025-06-12,UltraFix & Filhos,13069.9,Alta,Concluído
+MN00608,Torres do Sol,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-05-03,2024-05-06,2024-05-09,MASTERFIX LDA,2632.13,Alta,Concluído
+MN00609,Quinta das Palmeiras,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2025-01-05,2025-02-14,2025-03-06,GlobalTec Group,10746.94,Baixa,Concluído
+MN00610,Condomínio Central,Melhoria,Telhado,,2025-06-11,2025-06-16,2025-06-25,SmartRepair Lda,6817.95,Alta,Concluído
+MN00611,JARDINS DA CIDADE,Manutenção preventiva,Telhado,Infiltrações detetadas após temporal,2025-01-01,2025-01-01,2025-01-06,MasterFix Lda.,,Crítica,Concluído
+MN00612,CONDOMÍNIO CENTRAL,Reparação urgente,Telhado,,2025-03-17,2025-03-22,2025-03-31,UltraFix & Filhos,2549.08,Alta,Concluído
+MN00613,jardins da cidade,Manutenção preventiva,Garagem,,2024-03-12,2024-03-12,2024-03-15,SmartRepair Lda,681.59,Crítica,Concluído
+MN00614,VILA VERDE,Reparação urgente,Telhado,Sistema de drenagem entupido,2025-07-13,2025-07-15,2025-07-23,GlobalTec Unipessoal,1022.46,Alta,Concluído
+MN00615,Residencial Atlântico,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-01-13,2024-01-14,2024-01-15,ProServiços Solutions,2480.79,Crítica,Concluído
+MN00616,condomínio central,Melhoria,Jardim,Sistema de rega avariado,2024-12-14,2024-12-16,2024-12-20,UltraFix Group,606.77,Crítica,Concluído
+MN00617,condomínio central,REPARAÇÃO URGENTE,Telhado,Impermeabilização degradada,2024-05-03,2024-05-06,2024-05-10,MasterFix Unipessoal,5021.02,Alta,Concluído
+MN00618,residencial atlântico,Manutenção preventiva,Jardim,Iluminação exterior fundida,2024-04-24,2024-05-09,2024-05-21,TecnoReparações Group,386.43,Média,Concluído
+MN00619,Torres do Sol,Reparação urgente,Hall,Correio acumulado sem distribuição,2023-08-30,2023-09-06,2023-09-16,SmartRepair Lda,1132.78,Alta,Concluído
+MN00620,quinta das palmeiras,Manutenção preventiva,Jardim,Relva necessita tratamento,2024-08-17,2024-09-07,2024-09-20,UltraFix SA,316.09,Baixa,Concluído
+MN00621,Residencial Atlântico,Melhoria,Piscina,Azulejos partidos no fundo,2023-09-20,2023-09-25,2023-09-28,PrimeWorks Group,921.81,Alta,Concluído
+MN00622,torres do sol,Melhoria,Piscina,Azulejos partidos no fundo !!!!,2024-11-22,2024-12-11,2024-12-30,MASTERFIX LDA,946.46,Média,Concluído
+MN00623,CONDOMÍNIO CENTRAL,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2025-01-06,2025-01-10,2025-01-14,UltraFix SA,7391.89,Alta,Concluído
+MN00624,Quinta das Palmeiras,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2023-10-24,2023-10-31,2023-11-04,ProServiços SA,8708.49,Alta,Concluído
+MN00625,jardins da cidade,Manutencao preventiva,Elevador,Ruído excessivo durante funcionamento,2023-10-21,2023-10-22,2023-10-24,ProServiços Group,3392.98,Crítica,Concluído
+MN00626,Quinta das Palmeiras,Inspeção,Fachada,Fissuras visíveis na parede norte,2025-06-14,2025-07-11,2025-07-28,PrimeWorks Group,14211.75,Baixa,Concluído
+MN00627,Torres do Sol,Inspeção,Elevador,Botões do painel não respondem,2023-11-20,2023-12-24,2024-01-13,ProServiços SA,2668.25,Baixa,Concluído
+MN00628,Vila Verde,Inspecção,Telhado,Infiltrações detetadas após temporal,2025-05-03,2025-05-20,2025-06-02,masterfix lda,3862.24,Media,Concluído
+MN00629,quinta das palmeiras,Reparação urgente,Telhado,Sistema de drenagem entupido,2024-07-27,2024-07-31,,ProServiços Group,10888.41,Alta,aprovado
+MN00630,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Jardim,Poda de árvores urgente,2025-08-06,2025-09-01,,UltraFix & Filhos,833.06,Baixa,Em curso
+MN00631,vila verde,Melhoria,Garagem,Marcações no chão necessitam repintura,2025-02-16,2025-03-24,2025-04-13,MasterFix Unipessoal,702.64,Baixa,Concluído
+MN00632,VILA VERDE,Inspeção,Garagem,Sistema de ventilação com problemas,2025-08-12,2025-08-20,2025-09-03,masterfix lda,1419.57,Média,Concluído
+MN00633,torres do sol,Inspeção,Telhado,Infiltrações detetadas após temporal,2023-11-29,2023-12-19,2023-12-30,ProServiços SA,4917.35,Média,Concluído
+MN00634,Jardins da Cidade,Inspeção,Hall,Intercomunicador avariado,2024-01-16,2024-01-19,2024-01-24,SmartRepair Lda,1127.54,Alta,Concluído
+MN00635,VILA VERDE,Manutenção preventiva,Elevador,Porta não fecha corretamente,2023-09-22,2023-09-22,2023-09-24,ProServiços SA,6321.21,Crítica,Concluído
+MN00636,JARDINS DA CIDADE,Melhoria,Garagem,Portão automático avariado,2025-03-25,2025-03-28,2025-03-31,ProServiços Group,608.79,Alta,Concluído
+MN00637,torres do sol,Reparação urgente,Jardim,Relva necessita tratamento,2024-12-25,2024-12-26,2024-12-27,MasterFix Unipessoal,161.5,Crítica,Concluído
+MN00638,Condomínio Central,Manutenção preventiva,Fachada,Humidade ascendente no piso térreo,2024-11-19,2024-11-21,2024-11-30,GlobalTec Unipessoal,19067.02,Alta,Concluído
+MN00639,residencial atlântico,Inspeção,Telhado,Telhas partidas necessitam substituição,30/03/2025,2025-04-25,2025-05-18,ProServiços SA,8007740.0,Baixa,Concluído
+MN00640,CONDOMÍNIO CENTRAL,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória !!!!,2025-08-13,2025-08-16,,TecnoReparações Unipessoal,2552.6,Alta,Em curso
+MN00641,residencial atlântico,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2023-12-07,2023-12-13,2023-12-18,ProServiços Group,1674.53,alta,Concluído
+MN00642,TORRES DO SOL,Manutenção preventiva,Piscina,pH da água desregulado,2024-02-17,2024-02-20,2024-02-27,ProServiços SA,287.34,Alta,Concluído
+MN00643,Torres do Sol,Manutenção preventiva,Piscina,Sistema de filtragem necessita manutenção,2024-10-14,2024-10-27,2024-11-04,ProServiços Group,274.38,Média,Concluído
+MN00644,condomínio central,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2025-02-19,2025-03-19,2025-04-11,,4498.96,Baixa,Concluído
+MN00645,residencial atlântico,Inspeção,Telhado,Estrutura de suporte com sinais de degradação,2023-12-11,2023-12-19,2023-12-30,MASTERFIX LDA,3854.86,Média,Concluído
+MN00646,TORRES DO SOL,Melhoria,Fachada,Fissuras visíveis na parede norte,2025-03-05,2025-03-20,2025-04-12,MasterFix Unipessoal,4875.48,Baixa,Concluído
+MN00647,QUINTA DAS PALMEIRAS,Manutenção preventiva,Garagem,Iluminação insuficiente,2023-11-19,2023-11-25,2023-12-03,TecnoReparações Solutions,1765.06,Alta,Concluído
+MN00648,Jardins da Cidade,Inspeção,Elevador,Botões do painel não respondem,2023-12-26,2023-12-26,2023-12-27,PrimeWorks Group,641.42,critica,Concluído
+MN00649,Condomínio Central,Inspeção,Jardim,Relva necessita tratamento,2024-05-19,2024-05-25,2024-06-04,SmartRepair Solutions,912.6,Alta,Concluído
+MN00650,condomínio central,Reparação urgente,Elevador,Botões do painel não respondem,2024-08-17,2024-08-24,2024-09-01,ProServiços Solutions,623.09,Alta,Concluído
+MN00651,Jardins da Cidade,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2024-06-09,2024-06-10,2024-06-15,UltraFix & Filhos,1258.78,Crítica,Concluído
+MN00652,quinta das palmeiras,Manutenção preventiva,Garagem,Portão automático avariado,2024-01-10,2024-01-19,2024-01-24,masterfix lda,301.55,Média,Concluído
+MN00653,jardins da cidade,Melhoria,Hall,Intercomunicador avariado,2024-01-20,2024-02-08,2024-02-24,UltraFix Group,688.07,Média,Concluído
+MN00654,Quinta das Palmeiras,Melhoria,Hall,Espelho partido na entrada,2024-04-14,2024-05-01,2024-05-11,MasterFix Unipessoal,1461.44,Média,Concluído
+MN00655,condomínio central,Inspeção,Telhado,Impermeabilização degradada,2024-06-03,2024-06-13,2024-06-29,GlobalTec Group,10019.1,Média,Concluído
+MN00656,Jardins da Cidade,Reparação urgente,Garagem,Portão automático avariado,2024-11-28,2024-11-30,2024-12-05,TecnoReparações Solutions,1259.48,Crítica,Concluído
+MN00657,vila verde,Manutenção preventiva,Telhado,Impermeabilização degradada,2025-03-09,2025-03-17,2025-03-31,SmartRepair Lda,12924.67,Média,Concluído
+MN00658,vila verde,Inspecção,Elevador,Necessária inspeção periódica obrigatória,2025-01-10,2025-02-02,2025-02-26,UltraFix & Filhos,713.58,Baixa,Concluído
+MN00659,TORRES DO SOL,Inspeção,Jardim,Pragas detetadas nas plantas,2024-08-29,2024-09-10,2024-09-15,ProServiços SA,111.62,MÉDIA,Concluído
+MN00660,VILA VERDE,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-03-20,2024-03-26,2024-03-22,GlobalTec Unipessoal,711.13,Alta,Concluído
+MN00661,Residencial Atlântico,Reparação urgente,Fachada,Fissuras visíveis na parede norte,2023-11-22,2023-11-22,2023-11-23,ProServiços SA,4059.68,Crítica,Concluído
+MN00662,jardins da cidade,Melhoria,Jardim,Pragas detetadas nas plantas,2024-02-12,2024-02-18,,UltraFix & Filhos,51.8,Alta,aprovado
+MN00663,Condomínio Central,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2025-03-20,2025-04-19,2025-05-15,ProServiços SA,1772.23,Baixa,Concluído
+MN00664,Jardins da Cidade,Reparação urgente,Elevador,Porta não fecha corretamente,2024-08-22,2024-08-27,2024-09-06,UltraFix & Filhos,3806.41,Alta,Concluído
+MN00665,jardins da cidade,Reparação urgente,Garagem,Sistema de ventilação com problemas,2024-03-29,2024-04-05,2024-04-13,ProServiços SA,2768.09,Alta,Concluído
+MN00666,residencial atlântico,Manutenção preventiva,Hall,Espelho partido na entrada,2023-09-16,2023-09-21,2023-09-28,ProServiços SA,948.68,Alta,Concluído
+MN00667,JARDINS DA CIDADE,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2025-01-20,2025-01-20,2025-01-23,UltraFix & Filhos,5251.04,Crítica,Concluído
+MN00668,Vila Verde,Manutenção preventiva,Telhado,Infiltrações detetadas após temporal,2024-05-07,2024-05-07,2024-05-11,GlobalTec Unipessoal,9218.21,Crítica,Concluído
+MN00669,QUINTA DAS PALMEIRAS,Manutenção preventiva,Jardim,Sistema de rega avariado,2025-03-25,2025-04-03,2025-04-18,GlobalTec Group,423.82,Média,Concluído
+MN00670,jardins da cidade,Reparação urgente,Piscina,Azulejos partidos no fundo,2023-09-24,2023-09-26,2023-09-29,GlobalTec Unipessoal,2261.09,Crítica,Concluído
+MN00671,CONDOMÍNIO CENTRAL,Reparação urgente,Telhado,Telhas partidas necessitam substituição,2025-05-28,2025-06-01,2025-06-08,UltraFix & Filhos,5888.72,Alta,Concluído
+MN00672,Vila Verde,Reparação urgente,Elevador,Porta não fecha corretamente,2024-06-13,2024-06-17,2024-06-20,PrimeWorks Group,3050.89,Alta,Concluído
+MN00673,CONDOMÍNIO CENTRAL,REPARAÇÃO URGENTE,Telhado,Estrutura de suporte com sinais de degradação,2024-05-11,2024-05-13,2024-05-16,ProServiços SA,921.54,Crítica,Concluído
+MN00674,RESIDENCIAL ATLÂNTICO,Melhoria,Garagem,Iluminação insuficiente,2023-12-16,2024-01-05,2024-01-22,ProServiços Solutions,2783.21,Baixa,Concluído
+MN00675,torres do sol,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-10-10,2024-10-15,2024-10-25,ProServiços SA,946.44,Alta,Concluído
+MN00676,jardins da cidade,Reparação urgente,Hall,Espelho partido na entrada,2024-11-12,2024-11-12,2024-11-17,MasterFix Unipessoal,74.5,Crítica,Concluído
+MN00677,CONDOMÍNIO CENTRAL,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-05-23,2025-05-30,2025-06-07,MasterFix Unipessoal,2748.22,Alta,Concluído
+MN00678,condomínio central,Inspeção,Elevador,Necessária inspeção periódica obrigatória,2025-08-10,2025-08-11,2025-08-12,MasterFix Unipessoal,4411.24,Crítica,Concluído
+MN00679,QUINTA DAS PALMEIRAS,Melhoria,Telhado,Infiltrações detetadas após temporal,2023-10-10,2023-10-18,2023-10-27,TecnoReparações Solutions,11579.19,Média,Concluído
+MN00680,jardins da cidade,Manutenção preventiva,Fachada,,2025-01-25,2025-01-25,2025-01-29,ProServiços Group,18920.83,CRITICA,CONCLUIDO
+MN00681,JARDINS DA CIDADE,Reparação urgente,Jardim,Poda de árvores urgente,2025-02-09,2025-02-16,2025-02-24,UltraFix SA,167.45,Alta,Concluído
+MN00682,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Elevador,Ruído excessivo durante funcionamento,2023-08-28,2023-10-03,2023-10-16,ProServiços Solutions,771.06,Baixa,Concluído
+MN00683,Torres do Sol,Melhoria,Jardim,Poda de árvores urgente,2025-07-01,2025-07-04,2025-07-02,MASTERFIX LDA,,Crítica,Concluído
+MN00684,quinta das palmeiras,Melhoria,Hall,Piso escorregadio necessita tratamento,2024-11-13,2024-11-29,2024-12-28,PrimeWorks Group,107.06,Baixa,Concluído
+MN00685,JARDINS DA CIDADE,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2023-12-08,2023-12-10,2023-12-14,UltraFix & Filhos,4236.9,Crítica,Concluído
+MN00686,Quinta das Palmeiras,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2025-04-13,2025-04-15,2025-04-19,ProServiços SA,1016.08,Crítica,Concluído
+MN00687,JARDINS DA CIDADE,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2025-04-18,2025-04-18,2025-04-20,MasterFix Unipessoal,3024.11,Crítica,Concluído
+MN00688,TORRES DO SOL,Reparação urgente,Telhado,Sistema de drenagem entupido,2025-03-09,2025-03-09,2025-03-12,TecnoReparações Solutions,7181.58,Crítica,Concluído
+MN00689,jardins da cidade,Melhoria,Telhado,Infiltrações detetadas após temporal,2023-12-27,2024-02-08,2024-02-23,UltraFix Group,7938.12,Baixa,Concluído
+MN00690,QUINTA DAS PALMEIRAS,Reparação urgente,Garagem,Piso com fissuras e buracos,2023-10-24,2023-10-26,,GlobalTec Unipessoal,1405.43,Alta,reportado
+MN00691,Torres do Sol,Inspeção,Garagem,Sistema de ventilação com problemas,2024-01-20,25/01/2024,2024-02-02,PrimeWorks Group,2633.97,Alta,Concluído
+MN00692,jardins da cidade,Reparação urgente,Hall,Lâmpadas fundidas,2023-09-29,2023-10-01,2023-10-02,masterfix lda,0.0,Crítica,Concluído
+MN00693,torres do sol,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2024-12-05,2024-12-18,2024-12-11,GlobalTec Unipessoal,13443.95,Alta,Concluído
+MN00694,TORRES DO SOL,Reparação urgente,Elevador,Botões do painel não respondem,2025-04-26,2025-05-03,2025-05-13,GlobalTec Group,934.66,Alta,Concluído
+MN00695,Vila Verde,Manutenção preventiva,Piscina,Bomba de circulação com ruído anormal,2024-10-18,2024-10-28,2024-11-09,TecnoReparações Group,1516.39,Média,Concluído
+MN00696,Vila Verde,Inspeção,Garagem,Marcações no chão necessitam repintura,2024-11-21,2024-12-03,2024-12-11,GlobalTec Group,1818.1,Média,Concluído
+MN00697,Vila Verde,Reparação urgente,Garagem,Sistema de ventilação com problemas,2025-08-01,2025-08-03,,ProServiços SA,2312.79,Alta,Em curso
+MN00698,TORRES DO SOL,Inspeção,Fachada,Revestimento cerâmico solto,2024-01-12,2024-01-22,2024-02-02,ProServiços SA,21311.98,MÉDIA,Concluído
+MN00699,quinta das palmeiras,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-04-14,2024-04-16,2024-04-19,masterfix lda,3724.95,Crítica,Concluído
+MN00700,TORRES DO SOL,Melhoria,Fachada,Revestimento cerâmico solto,2024-12-29,2024-12-31,2025-01-04,,6310.67,Crítica,Concluído
+MN00701,VILA VERDE,Inspeção,Garagem,Piso com fissuras e buracos,2024-09-20,2024-09-24,2024-09-28,GlobalTec Unipessoal,2639.68,Alta,Concluído
+MN00702,quinta das palmeiras,Reparação urgente,Garagem,Portão automático avariado,2025-06-15,2025-06-16,2025-06-18,MASTERFIX LDA,1206.38,Crítica,Concluído
+MN00703,Residencial Atlântico,Manutenção preventiva,Telhado,Sistema de drenagem entupido,2025-05-05,2025-05-07,2025-05-10,UltraFix Group,16480.21,Crítica,Concluído
+MN00704,quinta das palmeiras,Manutenção preventiva,Telhado,,2024-10-07,2024-10-09,2024-10-10,MasterFix Unipessoal,15940.33,Crítica,Concluído
+MN00705,RESIDENCIAL ATLÂNTICO,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-12-01,2024-12-03,2024-12-09,PrimeWorks Group,1336.45,Alta,Concluído
+MN00706,Vila Verde,Melhoria,Piscina,Azulejos partidos no fundo,2025-07-17,2025-08-01,2025-08-10,TecnoReparações Group,816.16,Média,Concluído
+MN00707,Vila Verde,Reparação urgente,Jardim,Relva necessita tratamento,2024-09-13,2024-09-15,2024-09-22,ProServiços SA,511.8,Alta,Concluído
+MN00708,Jardins da Cidade,Inspeção,Elevador,Porta não fecha corretamente,2024-05-05,2024-05-09,2024-05-16,ProServiços Solutions,2991.79,Alta,Concluído
+MN00709,quinta das palmeiras,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2025-08-10,2025-08-14,,GlobalTec Group,563.96,Alta,Em curso
+MN00710,Quinta das Palmeiras,Reparação urgente,Garagem,Portão automático avariado,2025-01-17,2025-01-20,2025-01-30,GlobalTec Unipessoal,905.44,Alta,Concluído
+MN00711,quinta das palmeiras,Melhoria,Jardim,Relva necessita tratamento,2025-06-19,2025-06-21,2025-06-25,MasterFix Unipessoal,991.47,Crítica,Concluído
+MN00712,Jardins da Cidade,Reparação urgente,Fachada,Revestimento cerâmico solto,2024-12-27,2024-12-29,2025-01-02,UltraFix & Filhos,11812.8,Alta,Concluído
+MN00713,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2024-08-29,2024-10-13,2024-10-24,MasterFix Unipessoal,705.71,Baixa,Concluído
+MN00714,Torres do Sol,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-06-18,2024-07-19,2024-08-07,UltraFix SA,4675.31,Baixa,Concluído
+MN00715,Condomínio Central,Reparação urgente,Jardim,Pragas detetadas nas plantas,2024-11-15,2024-11-18,2024-11-21,ProServiços SA,735.6,Alta,Concluído
+MN00716,QUINTA DAS PALMEIRAS,Melhoria,Telhado,Estrutura de suporte com sinais de degradação,2024-04-30,2024-05-07,2024-05-15,UltraFix Group,10845.34,Alta,Concluído
+MN00717,RESIDENCIAL ATLÂNTICO,Melhoria,Hall,Lâmpadas fundidas,2025-03-28,2025-04-15,2025-04-05,ProServiços SA,1403.87,Média,Concluído
+MN00718,QUINTA DAS PALMEIRAS,Reparação urgente,Jardim,Pragas detetadas nas plantas,2024-03-22,2024-03-24,2024-03-28,ProServiços SA,971.1,Alta,Concluído
+MN00719,condomínio central,Manutenção preventiva,Telhado,Sistema de drenagem entupido !!!!,2024-11-17,2024-11-18,2024-11-22,SmartRepair Lda,9941.07,Crítica,Concluído
+MN00720,condomínio central,REPARAÇÃO URGENTE,Telhado,Estrutura de suporte com sinais de degradação,2025-08-12,2025-08-14,2025-08-17,SmartRepair Lda,12953.17,Alta,Concluído
+MN00721,CONDOMÍNIO CENTRAL,Inspeção,Jardim,Poda de árvores urgente,2025-04-27,2025-04-29,2025-05-07,masterfix lda,992.11,Alta,Concluído
+MN00722,Residencial Atlântico,Manutenção preventiva,Fachada,Revestimento cerâmico solto,2025-05-27,2025-05-30,2025-06-07,TecnoReparações Group,13681.28,Alta,Concluído
+MN00723,Jardins da Cidade,Manutenção preventiva,Fachada,Necessária limpeza e tratamento anti-grafitti,2024-03-07,2024-03-14,,GlobalTec Group,9506.67,Alta,aprovado
+MN00724,condomínio central,Reparação urgente,Telhado,Infiltrações detetadas após temporal,2024-04-24,2024-04-26,2024-04-27,MasterFix Unipessoal,13010.84,Crítica,Concluído
+MN00725,vila verde,Inspeção,Fachada,Fissuras visíveis na parede norte,2024-09-15,2024-10-06,,MasterFix Unipessoal,19357.6,Média,EM ANÁLISE
+MN00726,RESIDENCIAL ATLÂNTICO,melhoria,Fachada,Revestimento cerâmico solto,2024-12-05,2024-12-18,2024-12-30,MASTERFIX LDA,18437.61,Média,Concluído
+MN00727,jardins da cidade,Manutenção preventiva,Jardim,Sistema de rega avariado,2025-06-09,2025-06-14,2025-06-17,UltraFix & Filhos,389.72,Alta,Concluído
+MN00728,JARDINS DA CIDADE,Reparação urgente,Jardim,Poda de árvores urgente,2024-03-22,2024-03-26,2024-04-01,MasterFix Unipessoal,173.39,Alta,Concluído
+MN00729,vila verde,Inspeção,Garagem,Piso com fissuras e buracos,2023-09-28,2023-09-29,2023-10-02,TecnoReparações Group,573.56,Crítica,Concluído
+MN00730,RESIDENCIAL ATLÂNTICO,Reparação urgente,Elvador,Intercomunicador avariado,2025-07-16,2025-07-18,2025-07-22,GlobalTec Unipessoal,1270.47,Alta,Concluído
+MN00731,Quinta das Palmeiras,Melhoria,Elevador,Avaria no sistema de travagem,2024-11-14,2024-11-16,2024-11-17,ProServiços Solutions,2560.11,Crítica,Concluído
+MN00732,Jardins da Cidade,Manutenção preventiva,Elevador,Avaria no sistema de travagem,2025-06-07,2025-06-08,2025-06-10,MASTERFIX LDA,1674.94,critica,Concluído
+MN00733,quinta das palmeiras,Manutenção preventiva,Piscina,pH da água desregulado,2024-07-26,2024-08-23,2024-09-12,MASTERFIX LDA,211.62,Baixa,Concluído
+MN00734,Quinta das Palmeiras,Manutenção preventiva,Elevador,Botões do painel não respondem,2024-08-03,2024-08-10,2024-08-19,GlobalTec Group,4329.42,Alta,Concluído
+MN00735,condomínio central,Inspeção,Piscina,Sistema de filtragem necessita manutenção,2024-12-15,2024-12-19,2024-12-23,ProServiços SA,367.73,Alta,Concluído
+MN00736,VILA VERDE,Reparação urgente,Piscina,pH da água desregulado,2024-02-20,2024-02-22,2024-02-23,MasterFix Unipessoal,1628.29,Crítica,Concluído
+MN00737,Torres do Sol,Manutenção preventiva,Hall,Piso escorregadio necessita tratamento,2023-10-08,2023-11-12,2023-11-29,PrimeWorks Group,1135.38,Baixa,Concluído
+MN00738,condomínio central,Reparação urgente,Jardim,Relva necessita tratamento,2024-11-30,2024-12-02,2024-12-04,UltraFix Group,630.52,Crítica,Concluído
+MN00739,torres do sol,Manutenção preventiva,Piscina,Sistema de filtragem necessita manutenção,2024-10-03,2024-10-25,2024-11-11,MasterFix Unipessoal,1745.76,Baixa,Concluído
+MN00740,TORRES DO SOL,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-08-29,2024-08-29,2024-09-02,masterfix lda,4289.22,Crítica,Concluído
+MN00741,TORRES DO SOL,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-05-16,2024-05-31,2024-06-22,ProServiços Group,1716.32,Baixa,Concluído
+MN00742,TORRES DO SOL,Reparação urgente,Garagem,Iluminação insuficiente,2025-01-29,2025-01-29,2025-02-02,UltraFix SA,3154.84,Crítica,Concluído
+MN00743,VILA VERDE,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2025-01-06,2025-01-19,2025-01-27,UltraFix Group,381.43,Média,Concluído
+MN00744,jardins da cidade,Manutenção preventiva,Fachada,Pintura descascada em várias zonas,2023-11-05,2023-11-07,2023-11-13,UltraFix Group,7879.41,Alta,Concluído
+MN00745,jardins da cidade,Reparação urgente,Elevador,Ruído excessivo durante funcionamento,2024-04-25,2024-04-30,2024-05-05,GlobalTec Unipessoal,1713.5,Alta,Concluído
+MN00746,residencial atlântico,Manutenção preventiva,Elevador,Botões do painel não respondem,2025-01-23,2025-02-19,2025-03-20,masterfix lda,2867.55,Baixa,Concluído
+MN00747,torres do sol,Melhoria,Jardim,Iluminação exterior fundida,2024-03-08,2024-03-08,2024-03-12,SmartRepair Solutions,876.07,Crítica,Concluído
+MN00748,Torres do Sol,Manutenção preventiva,Piscina,Azulejos partidos no fundo,2023-09-01,2023-09-17,,ProServiços Group,1887.02,Baixa,reportado
+MN00749,condomínio central,Manutenção preventiva,Fachada,Necessária limpeza e tratamento anti-grafitti,2025-01-27,2025-03-05,2025-03-29,MASTERFIX LDA,2105.06,Baixa,Concluído
+MN00750,VILA VERDE,Manutenção preventiva,Garagem,Portão automático avariado,2025-03-10,2025-03-25,2025-04-13,UltraFix SA,2012.49,Média,Concluído
+MN00751,Residencial Atlântico,melhoria,Elevador,Avaria no sistema de travagem,2025-02-14,2025-02-18,2025-02-26,TecnoReparações Unipessoal,352.92,Alta,Concluído
+MN00752,Torres do Sol,Inspeção,Piscina,Sistema de filtragem necessita manutenção,2024-01-26,2024-03-04,2024-04-03,SmartRepair Solutions,991.94,Baixa,Concluído
+MN00753,VILA VERDE,Inspeção,Jardim,Poda de árvores urgente,2024-10-16,2024-10-20,2024-10-29,MasterFix Unipessoal,68.98,Alta,Concluído
+MN00754,Torres do Sol,Melhoria,Elevador,Porta não fecha corretamente,2024-08-07,2024-08-24,2024-08-29,ProServiços SA,4295.03,Média,Concluído
+MN00755,Vila Verde,Manutenção preventiva,Jardim,Relva necessita tratamento,2024-12-27,2025-01-03,2025-01-09,UltraFix & Filhos,635.06,Alta,Concluído
+MN00756,Torres do Sol,Melhoria,Elevador,Porta não fecha corretamente,2023-09-15,2023-10-08,2023-10-15,MasterFix Unipessoal,988.63,Baixa,Concluído
+MN00757,VILA VERDE,Manutenção preventiva,Garagem,Portão automático avariado,2023-10-06,2023-10-08,2023-10-13,TecnoReparações Solutions,663.23,Crítica,Concluído
+MN00758,jardins da cidade,Manutenção preventiva,Fachada,Humidade ascendente no piso térreo,2025-07-28,2025-08-13,2025-09-08,TecnoReparações Unipessoal,23635.2,Baixa,Concluído
+MN00759,Quinta das Palmeiras,Manutenção preventiva,Garagem,Sistema de ventilação com problemas,2024-12-05,2025-01-13,2025-01-29,MasterFix Unipessoal,1655.23,Baixa,Concluído
+MN00760,residencial atlântico,Manutenção preventiva,Telhado,Telhas partidas necessitam substituição,2025-03-04,2025-03-06,2025-03-13,UltraFix Group,8028.64,Alta,Concluído
+MN00761,jardins da cidade,Melhoria,Garagem,Portão automático avariado,2025-04-05,2025-04-11,2025-04-17,GlobalTec Group,1687.67,Alta,Concluído
+MN00762,Residencial Atlântico,Melhoria,Elevador,Botões do painel não respondem,2023-10-29,2023-12-01,2023-12-24,MASTERFIX LDA,2341.15,Baixa,Concluído
+MN00763,condomínio central,Manutenção preventiva,Elevador,Porta não fecha corretamente,2025-05-21,2025-07-01,2025-07-22,TecnoReparações Group,847.04,Baixa,Concluído
+MN00764,Residencial Atlântico,Manutencao preventiva,Elevador,Necessária inspeção periódica obrigatória,2023-10-07,2023-10-08,2023-10-11,UltraFix & Filhos,,Crítica,Concluído
+MN00765,JARDINS DA CIDADE,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2023-11-15,2023-11-22,2023-12-10,GlobalTec Group,12077.63,Média,Concluído
+MN00766,RESIDENCIAL ATLÂNTICO,Melhoria,Elevador,Avaria no sistema de travagem,2023-10-16,2023-10-19,2023-10-29,ProServiços SA,4866.69,Alta,Concluído
+MN00767,torres do sol,Inspeção,Piscina,Vedação de segurança danificada,2024-06-14,2024-07-02,2024-07-14,ProServiços Group,119.04,Média,CONCLUIDO
+MN00768,TORRES DO SOL,Reparação urgente,Fachada,Revestimento cerâmico solto,2025-05-14,2025-05-17,2025-05-23,MasterFix Unipessoal,7473.98,Alta,Concluído
+MN00769,QUINTA DAS PALMEIRAS,Manutenção preventiva,Telhado,Estrutura de suporte com sinais de degradação,2025-01-02,2025-02-08,2025-03-08,,4128.99,Baixa,Concluído
+MN00770,Residencial Atlântico,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-01-31,2024-02-04,2024-02-08,GlobalTec Unipessoal,4028.75,Alta,Concluído
+MN00771,CONDOMÍNIO CENTRAL,Inspeção,Elevador,Porta não fecha corretamente,2025-06-08,2025-06-22,2025-07-05,GlobalTec Unipessoal,855.4,Média,Concluído
+MN00772,residencial atlântico,Inspeção,Piscina,Azulejos partidos no fundo,2024-04-23,2024-05-13,2024-06-03,GlobalTec Unipessoal,1241.16,Baixa,Concluído
+MN00773,Residencial Atlântico,Inspecção,Elevador,Botões do painel não respondem,2025-02-23,2025-03-18,2025-04-16,ProServiços SA,2140.84,Baixa,Concluído
+MN00774,JARDINS DA CIDADE,Reparação urgente,Jardim,Sistema de rega avariado,2024-06-30,2024-07-04,2024-07-12,TecnoReparações Group,693.04,Alta,Concluído
+MN00775,condomínio central,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-01-23,2024-02-18,2024-03-16,MasterFix Lda.,381.99,Baixa,Concluído
+MN00776,TORRES DO SOL,Reparação urgente,Elevador,Avaria no sistema de travagem,2025-07-24,2025-08-31,,MasterFix Unipessoal,4998.77,baixa,Em curso
+MN00777,Condomínio Central,Inspeção,Garagem,Piso com fissuras e buracos,2023-09-03,2023-09-06,,TecnoReparações Group,1766.38,Alta,EM ANÁLISE
+MN00778,residencial atlântico,Manutenção preventiva,Jardim,Relva necessita tratamento,2024-05-01,2024-05-06,2024-05-16,MASTERFIX LDA,417.9,Alta,Concluído
+MN00779,residencial atlântico,melhoria,Piscina,Vedação de segurança danificada,2024-02-21,2024-03-08,2024-03-23,UltraFix Group,654.79,Média,Concluído
+MN00780,Vila Verde,Reparação urgente,Hall,Lâmpadas fundidas,2024-05-30,2024-05-30,2024-05-31,UltraFix SA,1506.71,Crítica,Concluído
+MN00781,JARDINS DA CIDADE,melhoria,Telhado,Infiltrações detetadas após temporal,2024-09-20,2024-09-21,,GlobalTec Unipessoal,1725.67,Crítica,reportado
+MN00782,CONDOMÍNIO CENTRAL,Reparação urgente,Jardim,Pragas detetadas nas plantas,2025-05-05,2025-05-09,2025-05-16,ProServiços Solutions,63.12,Alta,Concluído
+MN00783,Residencial Atlântico,Melhoria,Piscina,Azulejos partidos no fundo !!!!,2024-09-22,2024-10-03,2024-10-13,MasterFix Lda.,721.4,Média,Concluído
+MN00784,condomínio central,Inspeção,Garagem,Sistema de ventilação com problemas,2024-02-29,2024-03-16,2024-03-23,TecnoReparações Group,2579.62,Média,Concluído
+MN00785,condomínio central,Inspeção,Jardim,Iluminação exterior fundida,2024-12-12,2024-12-14,2024-12-17,ProServiços SA,670.54,Crítica,Concluído
+MN00786,Condomínio Central,Inspeção,Elevador,Botões do painel não respondem,2025-03-17,2025-03-19,2025-03-22,MasterFix Lda.,3919.46,Crítica,Concluído
+MN00787,condomínio central,Manutenção preventiva,Jardim,Poda de árvores urgente,2024-03-28,2024-04-02,2024-04-10,masterfix lda,904.48,Alta,Concluído
+MN00788,jardins da cidade,Melhoria,Elevador,Botões do painel não respondem,2024-11-27,2024-12-09,2024-12-16,masterfix lda,2078.06,Média,Concluído
+MN00789,vila verde,Melhoria,Elevador,Porta não fecha corretamente,2025-01-06,2025-02-01,2025-03-02,UltraFix Group,3296.95,Baixa,Concluído
+MN00790,RESIDENCIAL ATLÂNTICO,Melhoria,Elevador,Ruído excessivo durante funcionamento,2024-04-01,2024-04-14,2024-04-27,SmartRepair Solutions,1612.94,Média,Concluído
+MN00791,Condomínio Central,Manutenção preventiva,Jardim,Pragas detetadas nas plantas,2024-12-12,2024-12-12,2024-12-16,PrimeWorks Group,1233.57,Crítica,CONCLUIDO
+MN00792,JARDINS DA CIDADE,Reparação urgente,Fachada,Pintura descascada em várias zonas,2025-02-10,2025-02-15,2025-02-23,MASTERFIX LDA,2954.52,Alta,Concluído
+MN00793,torres do sol,Inspeção,Telhado,Estrutura de suporte com sinais de degradação,2024-07-07,2024-07-07,2024-07-08,UltraFix Group,9845.79,Crítica,Concluído
+MN00794,VILA VERDE,Inspeção,Elevador,,2025-08-09,2025-08-27,,masterfix lda,1702.51,Média,Em curso
+MN00795,Quinta das Palmeiras,Melhoria,Elevador,Necessária inspeção periódica obrigatória,2024-08-31,2024-09-07,2024-09-13,ProServiços SA,3998.2,Alta,Concluído
+MN00796,CONDOMÍNIO CENTRAL,Melhoria,Hall,Lâmpadas fundidas,2024-10-10,2024-10-12,2024-10-16,masterfix lda,1940.9,Crítica,Concluído
+MN00797,residencial atlântico,Manutenção preventiva,Elvador,Espelho partido na entrada,2025-01-05,2025-02-16,2025-03-14,UltraFix SA,576.79,Baixa,Concluído
+MN00798,Condomínio Central,Manutenção preventiva,Hall,Correio acumulado sem distribuição,2024-02-17,2024-02-27,2024-03-15,ProServiços SA,1266.99,Média,Concluído
+MN00799,residencial atlântico,Reparação urgente,Hall,Piso escorregadio necessita tratamento,2023-12-31,2024-01-01,2024-01-04,MASTERFIX LDA,1660.22,critica,Concluído
+MN00800,TORRES DO SOL,Manutenção preventiva,Jardim,Relva necessita tratamento,2025-02-11,2025-02-18,2025-02-27,MasterFix Unipessoal,461.25,Alta,Concluído
+MN00031,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Necessária inspeção periódica obrigatória,2024-07-05,2024-07-05,2024-07-08,PrimeWorks Group,2431.71,Crítica,Concluído
+MN00358,vila verde,Reparação urgente,Jardim,Sistema de rega avariado,2024-12-15,2024-12-17,2024-12-19,GlobalTec Unipessoal,1273.65,Crítica,Concluído
+MN00405,Quinta das Palmeiras,Reparação urgente,Elevador,Necessária inspeção periódica obrigatória,2024-10-09,2024-10-12,2024-10-16,UltraFix & Filhos,4074.4,Alta,Concluído
+MN00484,Condomínio Central,Manutenção preventiva,Fachada,Fissuras visíveis na parede norte,2025-01-01,2025-01-11,2025-01-30,UltraFix & Filhos,1050.46,Média,Concluído
+MN00441,jardins da cidade,Melhoria,Jardim,Pragas detetadas nas plantas,2024-05-14,2024-05-17,2024-05-23,TecnoReparações Solutions,454.68,Alta,Concluído
+MN00110,Residencial Atlântico,Manutenção preventiva,Garagem,Marcações no chão necessitam repintura,2024-01-19,2024-02-26,2024-03-08,ProServiços Group,1888.34,Baixa,Concluído
+MN00675,torres do sol,Reparação urgente,Garagem,Marcações no chão necessitam repintura,2024-10-10,2024-10-15,2024-10-25,ProServiços SA,946.44,Alta,Concluído
+MN00746,residencial atlântico,Manutenção preventiva,Elevador,Botões do painel não respondem,2025-01-23,2025-02-19,2025-03-20,masterfix lda,2867.55,Baixa,Concluído
+MN00792,JARDINS DA CIDADE,Reparação urgente,Fachada,Pintura descascada em várias zonas,2025-02-10,2025-02-15,2025-02-23,MASTERFIX LDA,2954.52,Alta,Concluído
+MN00201,Torres do Sol,Reparação urgente,Garagem,Sistema de ventilação com problemas,2023-10-02,2023-10-07,2023-10-14,GlobalTec Group,1310.78,Alta,Concluído
+MN00251,QUINTA DAS PALMEIRAS,Manutenção preventiva,Elevador,Porta não fecha corretamente,2024-07-21,2024-08-25,2024-09-21,UltraFix Group,3309.25,Baixa,Concluído
+MN00120,Vila Verde,Inspeção,Garagem,Marcações no chão necessitam repintura,2025-04-10,2025-04-11,2025-04-12,UltraFix & Filhos,3150.53,Crítica,Concluído
+MN00117,JARDINS DA CIDADE,Inspecção,Piscina,Sistema de filtragem necessita manutenção,2023-11-05,2023-12-13,2024-01-11,masterfix lda,,Baixa,Concluído
+MN00522,Jardins da Cidade,Inspecção,Elevador,Botões do painel não respondem,2024-04-05,2024-05-06,2024-05-27,UltraFix & Filhos,1103.62,Baixa,Concluído
+MN00158,quinta das palmeiras,Melhoria,Piscina,Vedação de segurança danificada,2024-06-15,2024-07-04,2024-07-14,ProServiços Group,564.26,Baixa,Concluído
+MN00442,torres do sol,REPARAÇÃO URGENTE,Elevador,Botões do painel não respondem,2023-12-22,2023-12-24,2023-12-26,MasterFix Unipessoal,5012.99,Crítica,Concluído
+MN00387,RESIDENCIAL ATLÂNTICO,Manutenção preventiva,Jardim,Iluminação exterior fundida,2023-09-30,2023-10-07,2023-10-16,SmartRepair Solutions,588.62,Alta,Concluído
+MN00639,residencial atlântico,Inspeção,Telhado,Telhas partidas necessitam substituição,30/03/2025,2025-04-25,2025-05-18,ProServiços SA,8007740.0,Baixa,Concluído
+MN00194,quinta das palmeiras,Melhoria,Elevador,Botões do painel não respondem,2024-06-05,2024-06-06,2024-06-10,PrimeWorks Group,5895.7,Crítica,Concluído
+MN00625,jardins da cidade,Manutencao preventiva,Elevador,Ruído excessivo durante funcionamento,2023-10-21,2023-10-22,2023-10-24,ProServiços Group,3392.98,Crítica,Concluído
